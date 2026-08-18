@@ -1,6 +1,6 @@
 # Tugiverbiühendite tuvastamine eesti keele UD puudepangas
 
-See repositoorium sisaldab Tanel Visnapi magistritöö "Objekti funktsioonis noomeniga tugiverbiühendite leksikonipõhine tuvastamine eesti keele UD sõltuvuspuude pangas" praktilise osa materjale tugiverbiühendite leksikonipõhiseks tuvastamiseks eesti keele Universal Dependencies (UD) sõltuvuspuude pangas.
+See repositoorium sisaldab Tanel Visnapi magistritöö "Objekti funktsioonis noomeniga tugiverbiühendite leksikonipõhine tuvastamine eesti keele UD sõltuvuspuude pangas" praktilise osa materjale. Repositooriumis on töös kasutatud Pythoni skriptid, leksikonid ja otsingu tulemused.
 
 ## Põhifailid
 
@@ -13,8 +13,21 @@ See repositoorium sisaldab Tanel Visnapi magistritöö "Objekti funktsioonis noo
 
 Skript on kirjutatud Python 3.14.3 jaoks ja kasutab `pyconll` teegi versiooni 4.1.1.
 
+Skripti käivitamiseks peavad samas kaustas olema järgmised failid: 
+
+- `leia_tugiverbiühendite_kandidaadid_korpusest.py`
+- `tugiverbid_valjund_final.txt`
+- `et_edt-ud-train.conllu`
+- `et_edt-ud-test.conllu`
+- `et_edt-ud-dev.conllu`
+
+Vajaliku teegi saab paigaldada käsurealt:
 ```bash
-python leia_tugiverbiühendite_kandidaadid_korpusest.py
+py -m pip install pyconll==4.1.1
+
+Seejärel saab skripti käivitada käsuga:
+```bash
+py leia_tugiverbiühendite_kandidaadid_korpusest.py
 ```
 
 Skriptis tuleb määrata kasutatava CoNLL-U korpuse failinimi või failinimed muutujas `korpuse_failid`. Otsinguleksikoni failinimi on määratud muutujas `yhendite_fail`.
