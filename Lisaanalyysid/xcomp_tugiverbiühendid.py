@@ -1,8 +1,8 @@
 import csv
 from pyconll.conllu import conllu
 
-csv_fail = "tugiverbid_leiud_FINAL.csv"
-conllu_fail = "tugiverbid_kandidaatlaused_FINAL.conllu"
+csv_fail = "tugiverbid_leiud.csv"
+conllu_fail = "tugiverbid_kandidaatlaused.conllu"
 valjund_fail = "xcomp_tulemused.csv"
 
 # Laused ID järgi
