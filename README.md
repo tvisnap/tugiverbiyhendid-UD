@@ -11,7 +11,7 @@ See repositoorium sisaldab Tanel Visnapi magistritöö "Objekti funktsioonis noo
 
 ## Kasutamine
 
-Skript on kirjutatud Python 3.14.3 jaoks ja kasutab `pyconll` teegi versiooni 4.1.1.
+Skript on kirjutatud Python 3.14.3 jaoks ja ühildub teegi `pyconll` versiooniga 4.1.1.
 
 Skripti käivitamiseks peavad samas kaustas olema järgmised failid: 
 
