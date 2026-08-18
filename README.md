@@ -47,7 +47,7 @@ Täiustatud sõltuvusi kontrollitakse eraldi. Kui tööleksikonis olev noomen ei
 
 ## Failid
 
-### `pohiotsing`
+### `Põhiotsing`
 
 - `koosta_otsinguleksikon.py` – koostab tööleksikonist põhiotsingus kasutatava otsinguleksikoni.
 - `leia_tugiverbiühendite_kandidaadid_korpusest.py` – otsib UD puudepangast leksikonis kirjeldatud tugiverbiühendite kandidaate.
@@ -57,7 +57,7 @@ Täiustatud sõltuvusi kontrollitakse eraldi. Kui tööleksikonis olev noomen ei
 - `t2iustatud_leiud.csv` – ainult täiustatud sõltuvuste abil leitud kandidaadid.
 - `tugiverbid_kandidaatlaused.conllu` – põhiotsingu kandidaatlaused CoNLL-U kujul.
 
-### `Lisaanalyysid`
+### `Lisaanalüüsid`
 
 - `afiksaaladverbid_tugiverbiühendid.py` + `xcomp_tugiverbiühendid.py` – otsivad kandidaate, kus tugiverbiga on seotud afiksaaladverb või esineb `xcomp`-seos.
 - `afiksaaladverbid_tulemused.csv` + `xcomp_tulemused.csv` – `xcomp`/afiksaaladverbide analüüsi tulemused.
