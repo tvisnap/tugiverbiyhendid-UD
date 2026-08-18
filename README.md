@@ -24,7 +24,7 @@ Skripti käivitamiseks peavad samas kaustas olema järgmised failid:
 Vajaliku teegi saab paigaldada käsurealt:
 ```bash
 py -m pip install pyconll==4.1.1
-
+```
 Seejärel saab skripti käivitada käsuga:
 ```bash
 py leia_tugiverbiühendite_kandidaadid_korpusest.py
