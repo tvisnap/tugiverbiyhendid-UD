@@ -6,7 +6,7 @@ See repositoorium sisaldab Tanel Visnapi magistritöö "Objekti funktsioonis noo
 
 - `leia_tugiverbiühendite_kandidaadid_korpusest.py` - Pythoni skript, mis otsib tööleksikonis kirjeldatud noomeni- ja verbilemma kombinatsioone UD puudepangast. Põhiotsingus peab noomen olema verbiga `obj`-seoses või objekti rinnastatud liige. Lisaks kontrollitakse täiustatud sõltuvusi ning ainult täiustatud sõltuvustes leitud `obj`-seosega juhud salvestatakse eraldi väljundisse.
 - `tugiverbid_leksikon_final.txt` - Eesti keele verbikesksete püsiühendite andmebaasist (EKVPA) koostatud tööleksikon (263 rida).
-- `tugiverbid_valjund_final.txt` - otsingu jaoks normaliseeritud otsinguleksikon. Pärast teisendamist ja duplikaatide eemaldamist on selles 259 kirjet.
+- `tugiverbid_valjund_final.txt` - otsingu jaoks normaliseeritud otsinguleksikon. Pärast teisendamist ja duplikaatide eemaldamist on selles 259 rida.
 - `tugiverbid_leiud_final.csv` - põhiotsingu lõplik väljund: 516 kandidaati 509 lauses.
 
 ## Kasutamine
@@ -41,7 +41,7 @@ Seal asuvad programmi jooksutamiseks vajalikud failid, kui kasutada Githubi repo
 
 ## Otsingu põhimõte
 
-Otsing kasutab otsinguleksikoni ning kontrollib, kas samas lauses esineb leksikonis kirjeldatud verb ja noomen ning kas noomen on põhimärgenduses verbi objekt. Arvesse võetakse ka juhtumeid, kus noomen on rinnastatud verbi objektiga. Leksikonis olevat käändemärgendit kandidaadi leidmisel piirava tingimusena ei kasutata.
+Otsing kasutab otsinguleksikoni ning kontrollib, kas samas lauses esineb leksikonis kirjeldatud verb ja noomen ning kas noomen on põhimärgenduses verbi objekt. Lisaks võetakse arvesse kandidaadid, kus noomen on rinnastatud verbi objektiga. Leksikonis olevat käändemärgendit kandidaadi leidmisel piirava tingimusena ei kasutata.
 
 Täiustatud sõltuvusi kontrollitakse eraldi. Kui tööleksikonis olev noomen ei ole põhimärgenduses verbi objekt, kuid täiustatud sõltuvustes on noomeni ja verbi vahel `obj`-seos, salvestatakse leid eraldi väljundisse ja seda ei arvestata põhikandidaatide hulka.
 
@@ -59,6 +59,6 @@ Täiustatud sõltuvusi kontrollitakse eraldi. Kui tööleksikonis olev noomen ei
 
 ### `Lisaanalyysid`
 
-- `afiksaaladverbid_tugiverbiühendid.py` + `xcomp_tugiverbiühendid.py` – otsivad kandidaat, kus tugiverbiga on seotud afiksaaladverb või esineb `xcomp`-seos.
+- `afiksaaladverbid_tugiverbiühendid.py` + `xcomp_tugiverbiühendid.py` – otsivad kandidaate, kus tugiverbiga on seotud afiksaaladverb või esineb `xcomp`-seos.
 - `afiksaaladverbid_tulemused.csv` + `xcomp_tulemused.csv` – `xcomp`/afiksaaladverbide analüüsi tulemused.
 - `tugiverbid_leiud_k2sitsi+TOKENID.ods` – põhiotsingu kandidaatide käsitsi hindamise tabel + statistika analüüsi jaoks
