@@ -25,7 +25,7 @@ Vajaliku teegi saab paigaldada käsurealt:
 ```bash
 py -m pip install pyconll==4.1.1
 ```
-Seejärel saab skripti käivitada käsuga:
+Seejärel saab skripti käivitada käsuga, olles käsureal failidega samas kaustas:
 ```bash
 py leia_tugiverbiühendite_kandidaadid_korpusest.py
 ```
