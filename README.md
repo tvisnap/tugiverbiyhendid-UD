@@ -44,3 +44,21 @@ Seal asuvad programmi jooksutamiseks vajalikud failid, kui kasutada Githubi repo
 Otsing kasutab otsinguleksikoni ning kontrollib, kas samas lauses esineb leksikonis kirjeldatud verb ja noomen ning kas noomen on põhimärgenduses verbi objekt. Arvesse võetakse ka juhtumeid, kus noomen on rinnastatud verbi objektiga. Leksikonis olevat käändemärgendit kandidaadi leidmisel piirava tingimusena ei kasutata.
 
 Täiustatud sõltuvusi kontrollitakse eraldi. Kui tööleksikonis olev noomen ei ole põhimärgenduses verbi objekt, kuid täiustatud sõltuvustes on noomeni ja verbi vahel `obj`-seos, salvestatakse leid eraldi väljundisse ja seda ei arvestata põhikandidaatide hulka.
+
+## Failid
+
+### `pohiotsing`
+
+- `koosta_otsinguleksikon.py` – koostab tööleksikonist põhiotsingus kasutatava otsinguleksikoni.
+- `leia_tugiverbiühendite_kandidaadid_korpusest.py` – otsib UD puudepangast leksikonis kirjeldatud tugiverbiühendite kandidaate.
+- `tugiverbid_leksikon_final.txt` – EKVPA põhjal koostatud tööleksikon.
+- `tugiverbid_valjund.txt` – põhiotsingus kasutatav otsinguleksikon.
+- `tugiverbid_leiud.csv` – põhiotsinguga leitud kandidaadid.
+- `t2iustatud_leiud.csv` – ainult täiustatud sõltuvuste abil leitud kandidaadid.
+- `tugiverbid_kandidaatlaused.conllu` – põhiotsingu kandidaatlaused CoNLL-U kujul.
+
+### `Lisaanalyysid`
+
+- `afiksaaladverbid_tugiverbiühendid.py` + `xcomp_tugiverbiühendid.py` – otsivad kandidaat, kus tugiverbiga on seotud afiksaaladverb või esineb `xcomp`-seos.
+- `afiksaaladverbid_tulemused.csv` + `xcomp_tulemused.csv` – `xcomp`/afiksaaladverbide analüüsi tulemused.
+- `tugiverbid_leiud_k2sitsi+TOKENID.ods` – põhiotsingu kandidaatide käsitsi hindamise tabel + statistika analüüsi jaoks
