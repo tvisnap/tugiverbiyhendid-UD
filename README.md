@@ -35,9 +35,9 @@ Skriptis tuleb määrata kasutatava CoNLL-U korpuse failinimi või failinimed mu
 Kasutatud korpust ennast repositooriumis ei jagata. Magistritöös kasutati eesti keele UD sõltuvuspuude panka. Selle leiab siit: https://github.com/UniversalDependencies/UD_Estonian-EDT/ (versioon 2.18 seisuga 18.08.2026)
 
 Seal asuvad programmi jooksutamiseks vajalikud failid, kui kasutada Githubi repos olevat programmi muutmata kujul:
-`et_edt-ud-train.conllu`
-`et_edt-ud-dev.conllu`
-`et_edt-ud-test.conllu`
+`et_edt-ud-train.conllu`,
+`et_edt-ud-dev.conllu`,
+`et_edt-ud-test.conllu` 
 
 ## Otsingu põhimõte
 
