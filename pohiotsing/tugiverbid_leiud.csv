@@ -1,0 +1,517 @@
+Ühend;Lause_ID;Leitud ühendikandidaat;Komponendi seos;Komponendi kääne;Passiiv;Reegel;Lause tekst;Noomeni token;Verbi token
+rõõm:Par tundma;aja_ee199920_1016;Tundkem rõõmu;obj;Par;ei;obj;Tundkem parem rõõmu selle üle, mida ta suutis meile pärandada.;3;1
+asi:Par ajama;aja_ee199920_1036;asja aeti;obj;Par;jah;obj;"Kirsel ei oska öelda, kui suur kvartal 20 on ja kui palju ajakirjanikke lõpuks seal viimse puhkepaiga leiab: ""Kui Tootsen veel Pirita halduskogus oli, siis seda asja aeti, aga detailplaneeringut sellele kvartalile ei ole.""";31;32
+otsus:obj tegema;aja_ee199920_1080;Otsuse tegi;obj;Gen;ei;obj;Otsuse Hannoveri näitusel osaleda tegi valitsus täpselt neli aastat tagasi.;1;5
+põhjus:Par andma;aja_ee199920_1186;annab põhjust;obj;Par;ei;obj;Kas see annab põhjust muretsemiseks?;4;3
+remont:Par tegema;aja_ee199920_1252;tehtud remont;obj;Nom;jah;obj;Esimesel korrusel on tehtud remont, teisel ilmselt mitte.;5;4
+huvi:Par tundma;aja_ee199920_1441;huvi tunnen;obj;Par;ei;obj;Tunnistan üles, et on väga palju põhjusi, miks ma ooperi vastu huvi tunnen, kuid peamine on see, et ma tahan luua image'it, kujundeid.;14;15
+märkus:obj tegema;aja_ee199920_153;tegin märkuse;obj;Gen;ei;obj;"""Kunagi viisteist aastat tagasi, kui Savisaar oli veel Tallinna Mererajooni plaanikomisjoni esimees, tegin talle märkuse, et miks ta tuleb tossudega linnavalitsuse ette.""";18;16
+otsus:obj tegema;aja_ee199920_1647;teeb otsuse;obj;Gen;ei;obj;Nüüd, eluõhtusse jõudnuna, teeb ta arutu otsuse, mis viib tema ja ta noored kaaslased selgesse hukatusse.;9;6
+tunnistus:Par andma;aja_ee199920_1667;annab tunnistust;obj;Par;ei;obj;Fakt annab tunnistust asjaolust, et Eesti Vabariigi pinnal toimib kohati ikka veel nõukogulik tsensuur, sest pildi eemaldamist näituselt dikteerisid poliitilised ringkonnad.;3;2
+põhjus:Par andma;aja_ee199920_1724;andis põhjust;obj;Par;ei;obj;Omakultuuriõhtu üks nael -- Udmurdi lauljatar Nadežda Utkina andis seevastu oma kiirgava olemise ja naturaalkitarriga korduvalt põhjust ovatsioonideks.;17;9
+musi:Par andma;aja_ee199920_1825;musi anda;obj;Par;ei;obj;Kui Karl Martin nägi seto memmekesi rahvariietes, siis ta ütles, et vanad naised ei ole talle kunagi meeldinud, aga niimoodi, väärikates rahvariietes, tahaks neile kohe musi anda.;31;32
+kokku_võte:obj tegema;aja_ee199920_1862;teha kokkuvõtteid;obj;Par;ei;obj;Üldiselt, praegu ei julge veel teha kokkuvõtteid.;8;7
+oletus:Par tegema;aja_ee199920_2082;oletusi teha;obj;Par;ei;obj;Kuigi nooruse karmus ei luba veini küpsete päevade elegantsi kohta oletusi teha, on tegu ilmselgelt auahne veiniga, mille maitsepalett juba praegu külluslik.;11;12
+inspiratsioon:Par andma;aja_ee199920_2153;anda inspiratsiooni;obj;Gen;ei;obj;Mitmed jazzivõtted, näiteks riff, võiks anda selleks inspiratsiooni.;10;8
+hääl:Par tegema;aja_ee199920_2270;teeb häält;obj;Par;ei;obj;"Taavi Eelmaa näo ja figuuriga laulja Daniel Agusti hooleks jääb pophittide (""Ladyshave"") kuuldavale toomine, paar nädalat tagasi bändist lahkunud Hafdis Huld aga teeb häält tumedatoonilistes trip-hop bassikeerdudes.";29;28
+korraldus:obj andma;aja_ee199920_2376;andis korralduse;obj;Gen;ei;obj;Kui jätta kõrvale keerulised jaapanipärased viisakusvormelid, siis andis Leopold-san mulle korralduse silmapilk oma soolikad välja lasta -- see tähendab, sooritada harakiri!;12;9
+viga:obj tegema;aja_ee199920_2388;viga teha;obj;Par;ei;obj;Sekundandi kohus on seppukut sooritaval samurail pea ühe hoobiga otsast ära lüüa, enne kui samurai jõuab pistodaga endale tõsiselt viga teha.;21;22
+laen:Par võtma;aja_ee199920_361;võeti laen;obj;Nom;jah;obj;Projekti käivitamiseks võeti Forekspangast 3miljoniline laen.;6;3
+löök:Par andma;aja_ee199920_389;löögi andis;obj;Gen;ei;obj;Viimase löögi andis suusakeskusele nelja väikese palkmaja ehitamine.;2;3
+läbi_rääkimine:Par pidama;aja_ee199920_398;peetud läbirääkimised;obj;Nom;jah;obj;"""Ekspertide hinnang ettevõtte tegelikule väärtusele selgub, kui on peetud läbirääkimised finantsasutuste ja uute strateegiliste investoritega,"" ütles Saarsoo.";12;11
+laen:Par võtma;aja_ee199920_439;Laenu võtta;obj;Par;ei;obj;Laenu on kerge võtta, aga elada pidevas finantssurutises on märgatavalt keerulisem.;1;4
+huvi:Par tundma;aja_ee199920_460;huvi tundsid;obj;Par;ei;obj;"Nad tahtsid siia tulla olukorraga tutvuma, "" lausub Karu ja loetleb veel terve rea firmasid, mis Cannes'i kinnisvaramessil Tallinna sadamapiirkonna vastu huvi tundsid.";24;25
+huvi:Par tundma;aja_ee199920_49;tunneb huvi;obj;Par;ei;obj;Kohe pärast Eesti Ekspressi kõnet võttis aga Baltreil Hansapangaga ühendust ja küsis, et mis toimub, et Eesti Ekspress tunneb asja vastu huvi.;24;21
+investeering:Par tegema;aja_ee199920_497;teinud investeeringuid;obj;Par;ei;obj;Riga on teinud headel aastatel suuri investeeringuid.;7;3
+asi:Par ajama;aja_ee199920_507;aetakse asju;obj;Par;jah;obj;Ta on käinud vaatamas talusid Lätis, Leedus, Poolas ja teab, et seal aetakse asju vaoshoitumalt.;17;16
+valik:obj tegema;aja_ee199920_533;teeb valiku;obj;Gen;ei;obj;Kauplustes pakendatud toiduaineid ja valmisroogi valides teeb tarbija valiku aga kaubamärgist lähtudes: võibolla on tal sellenimelise tootega head kogemused, võibolla meeldis reklaam ajalehes, televisioonis või reklaamplakatil.;9;7
+huvi:Par tundma;aja_ee199920_559;tunnevad huvi;obj;Par;ei;obj;Firma juhid tunnevad huvi iga paiga vastu maailmas, kus elustandard tõuseb ja maksujõuline tarbijaskond suureneb.;4;3
+sisse_ost:Par tegema;aja_ee199920_572;teevad sisseostud;obj;Nom;ei;obj;Ometi võib nii Šveitsi kui ka teiste tööstusriikide näitel leida ka nišše: kellel on aega, teevad meelsasti oma sisseostud turult talupidajatelt ja kaluritelt.;21;18
+korraldus:obj andma;aja_ee199920_604;Korralduse andis;obj;Gen;ei;obj;"""Korralduse hiigeloperatsiooni läbiviimiseks andis härra Meri,"" jutustab kaitseliidu luurepealik James Blond.";2;5
+tunnistus:Par andma;aja_ee199920_636;annavad tunnistusi;obj;Par;ei;obj;Traktoriostjad annavad Mustamäe haiglas tunnistusi, ründaja seisukord on endiselt ülikriitiline.;5;2
+kõne:obj pidama;aja_ee199920_684;peab kõne;obj;Gen;ei;obj;Kell pool seitse õhtul peab Meri Kopenhaageni foorumil kõne, kus arutleb Euroopa Liidu laienemise üle ning väidab, et uute riikide liitumine tuleb liidule kasuks, kuna sunnib liitu ennast liigutama.;9;5
+töö:Par tegema;aja_ee199920_781;tegema tööd;obj;Par;ei;obj;Vene tüdrukud ei pea käima vene keele tunnis, küll aga peavad nad kaasa tegema suuremad kirjalikud tööd.;18;15
+mure:Par tundma;aja_ee199920_795;muret tunne;obj;Par;ei;obj;Eestlaste-venelaste suhete tuleviku pärast tüdrukud muret ei tunne.;6;8
+asi:Par ajama;aja_ee199920_80;asju ajamas;obj;Par;ei;obj;Mõni tund hiljem nähti teda Tartus veel asju ajamas.;8;9
+asi:Par ajama;aja_ee199920_851;asju ajada;obj;Par;ei;obj;Riigiasutustes asju ajada on kohutav.;2;3
+koopia:obj tegema;aja_ee199920_910;teha koopia;obj;Nom;ei;obj;""" Seda filmi ei ole võimalik ka välismaale müüa, kuna siis tuleb teha korralik ingliskeelne koopia ehk läheks vaja veel sada tuhat krooni.";17;14
+töö:Par tegema;aja_ee199920_921;tööd teha;obj;Par;ei;obj;"Olin produtsent olude sunnil, sest keegi teine ei tahtnud seda tööd teha, "" ütles ta.";12;13
+käik:Par tegema;aja_ee199920_994;tegi käigu;obj;Gen;ei;obj;Lembit Oll tegi oma viimase käigu ööhämaruse varjus.;6;3
+au_hind:obj andma;aja_ee200110_1006;auhinna andma;obj;Gen;ei;obj;"Tolk: "" Peame auhinna enne kätte andma, kui päris rõvedaks läheb.";5;8
+au_hind:obj andma;aja_ee200110_1030;anda auhind;obj;Nom;ei;obj;"Võtab taskust pajalapil metallpulga, teatab pidulikult: ""Lubage üle anda"" Esto-TV ""loomingulise põlemise auhind!"", haarab välgumihkli ja süütab Kuke rüü: ""Vaatame, kas põlete ka päriselt!""";18;12
+valik:obj tegema;aja_ee200110_1101;teevad valiku;obj;Gen;ei;obj;Kord aastas vaatavad kollektsionäärid üle suuremate iludusvõistluste videod ja teevad oma valiku.;12;10
+piinlikkus:Par tundma;aja_ee200110_1218;piinlikkust tundma;obj;Par;ei;obj;Parki ema oli rätsep, kelle õmmeldud koolijakid panid poisi piinlikkust tundma.;11;12
+tunnistus:Par andma;aja_ee200110_1235;andsid tunnistust;obj;Par;ei;obj;Kuid mõlemad filmid andsid tunnistust tema riukalikust, fantastilisest andest.;5;4
+liigutus:Par tegema;aja_ee200110_127;tegi liigutuse;obj;Gen;ei;obj;"""Sähke teile, põhulõuad!"" kõlas uus kraaksatus ja meie olümpiadelegatsiooni arstina teenindav Savi tegi liigutuse, nagu viskaks lehmadele heina ette.";18;17
+garantii:obj andma;aja_ee200110_1318;annab garantii;obj;Gen;ei;obj;""" Originaaltootja annab ravimile garantii, jälgib iga päev ravimi kõrvaltoimeid ning on vajaduse korral valmis ravimi turult kohe ära korjama.";5;3
+võimalus:obj andma;aja_ee200110_1326;annab võimaluse;obj;Gen;ei;obj;Referentshinna kehtestamine annab võimaluse kompenseerida uusi originaalravimeid, millele asendajat ei ole.;4;3
+koos_töö:Par tegema;aja_ee200110_1342;teevad koostööd;obj;Par;ei;obj;Kui Magnum tekitab olukorra, kus paljud apteegid teevad koostööd ainult nendega, siis peab sama tegema ka Tamro.;10;9
+ette_panek:obj tegema;aja_ee200110_1347;teinud ettepaneku;obj;Gen;ei;obj;Hulgi- ja jaemüüjad on teinud sotsiaalministrile ettepaneku tõsta neid protsente, mida hulgimüüjad ja apteegid saavad lisada alghinnale.;7;5
+asi:Par ajama;aja_ee200110_1391;ajas asju;obj;Par;ei;obj;Üks mees sai märkuse kirja, aga jutustas tööajast rahulikult edasi, ajas omi asju.;15;13
+vallatus:Par tegema;aja_ee200110_1517;vallatusi teha;obj;Par;ei;obj;Ja kui raha jagub, võib ka pisut vallatusi teha.;9;10
+töö:Par tegema;aja_ee200110_1576;tegi tööd;obj;Par;ei;obj;Ilmselt tegi vedrustus lihtsalt oma tööd.;6;2
+äri:Par ajama;aja_ee200110_1645;äri ajada;obj;Par;ei;obj;Täna Ukrainas äri ajada nõuab mehist meelt ja püstolit põues.;3;4
+suits:Par tegema;aja_ee200110_1715;teeb suitsu;obj;Par;ei;obj;Juht teeb närviliselt suitsu.;4;2
+valik:obj tegema;aja_ee200110_1827;valiku teinud;obj;Gen;ei;obj;Stepan Bandera juunior on oma valiku teinud.;6;7
+dieet:Par pidama;aja_ee200110_1901;dieeti peetakse;obj;Par;jah;obj;"Napid toiduratsioonid ja füüsilise koormuse suurenemine tähendas seda, et enamik naisi olid füüsiliselt paremas vormis kui kunagi enne; sõja poolt määratud dieeti peetakse tänapäevani ideaalilähedaseks.";24;25
+võimalus:obj andma;aja_ee200110_1949;anta võimalusi;obj;Par;jah;obj;Aga kas pole seegi vägivald naise kallal, kui talle ei anta võimalusi oma võlusid demonstreerida?;13;12
+rõõm:Par tundma;aja_ee200110_203;rõõmu tunda;obj;Par;ei;obj;Tegelikult on aga põhjust uuest olukorrast rõõmu tunda.;7;8
+töö:Par tegema;aja_ee200110_2032;tööd teha;obj;Par;ei;obj;Katsu siis niimoodi tööd teha.;4;5
+jutt:Par ajama;aja_ee200110_2055;ajab juttu;obj;Par;ei;obj;"Ta ajab nendega juttu, korduvateks sõnadeks on ""ilu"", ""igaühele oma"" ja ""minu-minu"".";4;2
+pahandus:Par tegema;aja_ee200110_2103;pahandust tegi;obj;Par;ei;obj;"Aga öelge, mis pahandust tegi hiljuti meie peaminister Mart Laar? """;5;6
+remont:Par tegema;aja_ee200110_2105;tegi remonti;obj;Par;ei;obj;"Diivanil pikutav Linda ajab pea püsti ja teatab ahastava häälega: ""Ta tegi remonti.""";15;14
+remont:Par tegema;aja_ee200110_2107;Tegi remonti;obj;Par;ei;obj;Tegi küll remonti, sellest me lugesime ka.;3;1
+vastus:Par andma;aja_ee200110_2123;vastuse anda;obj;Gen;ei;obj;Võtab umbes veerand tundi, enne kui ta vastuse saab anda.;9;11
+ette_panek:obj tegema;aja_ee200110_2247;tegi ettepanekuid;obj;Par;ei;obj;Makarov tegi teisigi huvitavaid ettepanekuid.;5;2
+koos_töö:Par tegema;aja_ee200110_2273;tehti koostööd;obj;Par;jah;obj;Viimased kuud tehti Makaroviga koostööd näpuga lepingus järge ajades.;5;3
+koos_töö:Par tegema;aja_ee200110_2277;koostööd tegema;obj;Par;ei;obj;Paar nädalat hiljem kirjutati juba ka sellest, et Jüri Makarovi asemel hakkab uus loodav koht koostööd tegema Lauri Laubre tiimiga.;17;18
+nõus_olek:obj andma;aja_ee200110_2357;andnud nõusoleku;obj;Gen;ei;obj;"HILJEM KüSISIN üHELT ""KEHA-ANNETAJALT"" - üle keskea mees, kes on andnud nõusoleku oma keha surmajärgseks eksponeerimiseks ning oli valmis vastama kõikidele asjasse puutuvatele küsimustele -, miks on naisekeha sellel näitusel kuuekordses vähemuses, võrreldes mehe kehaga.";15;14
+nõus_olek:obj andma;aja_ee200110_2362;andsid nõusoleku;obj;Gen;ei;obj;Tegin näitusesaalile kolm tiiru peale, jõudes lõpuks vältimatu küsimuseni, miks need inimesed andsid nõusoleku oma keha väljapanemiseks.;16;15
+nõus_olek:obj andma;aja_ee200110_2372;andsin nõusoleku;obj;Gen;ei;obj;"""Pärast seda, kui ma andsin nõusoleku plastinatsiooniks, ei tekita surmamõte minus enam ängi,"" teatab keegi rõõmsameelne anonymus.";8;7
+hääl:Par tegema;aja_ee200110_2391;tegi häält;obj;Par;ei;obj;Enne kontserti Poola pealinnas tegi aga häält Varssavi linnapea Antoni Pietkiewicz.;7;5
+võimalus:obj andma;aja_ee200110_2786;annab võimalusi;obj;Par;ei;obj;ATSi algaine annab lõputult võimalusi.;5;3
+laul:Par laskma;aja_ee200110_2873;lauludki laseme;obj;Nom;ei;obj;"Ja verd nõrgub ka värssidest ""Vanikud punume kallile / armsa Stalini pildile / lauludki laseme kõlada / suurele juhile, sõbrale"" (puudub valimikus).";15;16
+intervjuu:obj andma;aja_ee200110_2924;annab intervjuud;obj;Par;ei;obj;Olin küll näinud, kuidas Ken & Tolk vahetavad moekunstnik Judashkiniga lipse või kuidas Marica Lillemets annab intervjuud Läti moeajakirjanikule ehk Kenile (tõlgiks Tolk), kuid viimane saade jättis kõik varju.;18;17
+korrektiiv:Par tegema;aja_ee200110_2997;korrektiive teeb;obj;Par;ei;obj;"Sest siis saabub techno-nui (""Dreamfever""), mis eelkirjutatusse korrektiive teeb.";13;14
+mure:Par tundma;aja_ee200110_3015;muret tunda;obj;Par;ei;obj;"Nukrameelse lüüriku loomevõime suhtes muret tunda ei tule - inspiratsiooni on üle jäänud ka kahe imehea originaalloo jagu; nagu ikka, on need sügavamad ja tundelisemad kui Kozeleki iroonilised töötlused võõrast muusikast.";5;6
+võimalus:obj andma;aja_ee200110_3125;annab võimaluse;obj;Gen;ei;obj;Samas pakub stuudios nikerdamine rohkesti katsetamisvõimalusi ja annab muidu elitaarseks peetava muusika loojale võimaluse elada end välja stiilides, mis kontserdisaalis ei kõla.;14;8
+valik:obj tegema;aja_ee200110_3131;tehtud valik;obj;Nom;jah;obj;Sumera paljude ise enda eest kostvate filmitööde seast on plaadi jaoks tehtud hea valik.;14;12
+käsi_töö:Par tegema;aja_ee200110_3239;tegin käsitööd;obj;Par;ei;obj;Lapsena ma olin selline nahistaja, tegin käsitööd - just tikkisin.;8;7
+töö:Par tegema;aja_ee200110_3259;tööd teinud;obj;Par;ei;obj;Ajakirjastilisti tööd oled ka teinud?;2;5
+rõõm:Par tundma;aja_ee200110_3275;tunnen rõõmu;obj;Par;ei;obj;Ja tunnen rõõmu.;3;2
+huvi:Par tundma;aja_ee200110_35;tuntakse huvi;obj;Par;jah;obj;Vastus tuli Belgiast, kust teatati, et sinjoor Sposato vastu tuntakse huvi ühe autotehinguga seotud kelmuseloo tõttu, kuid mees pole tagaotsitav.;13;12
+all_kiri:obj andma;aja_ee200110_364;andnud allkirja;obj;Gen;ei;obj;"Olen andnud Eesti Spordimeditsiini Föderatsiooni presidendile Rein Jalakule allkirja, et olen täie mõistuse juures, ja et ma võtan endale vastutuse igasuguste tagajärgede suhtes, ja et ma soovin viia enda peal läbi eksperimendi dopingu (salbutamol) ""toime tundmaõppimiseks jooksukoormuse mõjul"".";9;2
+all_kiri:obj andma;aja_ee200110_378;allkirja andma;obj;Par;ei;obj;Viimane pingutav etteaste keskmaadistantsil pärineb juulikuust, kui ma jooksin kesklinna kõrvetavas lõõsas Narva maanteelt Mere puiesteele notarile mingit allkirja andma.;20;21
+massaaž:Par tegema;aja_ee200110_454;teha massaazhi;obj;Par;ei;obj;Kujutage ette, et kaheksa aasta pärast öeldakse, et sportlasele ei tohi teha massaazhi.;15;14
+plaan:obj pidama;aja_ee200110_487;pidas plaani;obj;Par;ei;obj;Mees pidas plaani osta endale kobedam eluase.;3;2
+vastus:Par andma;aja_ee200110_527;annab vastuseid;obj;Par;ei;obj;See annab lihtsaid vastuseid.;4;2
+plaan:obj pidama;aja_ee200110_559;pidada plaane;obj;Par;ei;obj;Kuid mitte uneski poleks naine näinud, et suurem osa Soomes elatud aega tuleb pidada plaane, kuidas ära põgeneda.;16;15
+asi:Par ajama;aja_ee200110_594;asja ajab;obj;Par;ei;obj;Mehe asja ajab advokaat Timo Rajamäki, kelle sõnul on praegu küsimuse all lapse heaolu.;2;3
+huvi:Par tundma;aja_ee200110_618;huvi tundnud;obj;Par;ei;obj;Mees ise pole lapsega kohtumise vastu huvi tundnud.;7;8
+ind:Par andma;aja_ee200110_692;indu andnud;obj;Par;ei;obj;Päitsete panek pole kellelegi indu juurde andnud.;5;7
+leping:obj tegema;aja_ee200110_748;leping tehti;obj;Nom;jah;obj;Kelle huvides säärane leping tehti ja kas tõesti oli teatridirektoril õigus keldriruumid pea sajandiks välja üürida?;4;5
+remont:Par tegema;aja_ee200110_754;teha remondi;obj;Gen;ei;obj;Selle asemel lubas Fookus teha teatrisaali ja lava remondi ja pakkuda näitlejatele tasuta lõunaid.;9;5
+läbi_rääkimine:Par pidama;aja_ee200110_768;läbirääkimisi pidasid;obj;Par;ei;obj;Scandic Hotels Eesti ASi finantsdirektor Andres Lepik väidab samuti, et läbirääkimisi pidasid nad Monte-Carloga, mitte teatriga.;12;13
+nõu:Par andma;aja_ee200110_798;anname nõu;obj;Par;ei;obj;"""Me anname vaid nõu.""";5;3
+võimalus:obj andma;aja_ee200110_897;andis võimaluse;obj;Gen;ei;obj;1994. aastal andis Shoemaker-Levy nimeline komeet võimaluse ohutust kaugusest jälgida, kuidas üks taevakeha planeedile kukub.;7;3
+au_hind:obj andma;aja_ee200110_948;Anname auhinnad;obj;Nom;ei;obj;""" Anname välja "" Esto-TV "" oma auhinnad!";8;2
+au_hind:obj andma;aja_ee200110_951;Anname auhinna;obj;Gen;ei;obj;"Tolk naeratab laialt nagu B-filmi fashist enne juudi ahju saatmist: ""Anname välja loomingulise põlemise auhinna, siis aaria rassi auhinna tõupuhtuse eest, siis veel ee-eee ... geisensibiilsuse auhinna, siis viljakuse auhinna, siis ...""";17;13
+au_hind:obj andma;aja_ee200110_951;Anname auhinna;conj;Gen;ei;conj->obj;"Tolk naeratab laialt nagu B-filmi fashist enne juudi ahju saatmist: ""Anname välja loomingulise põlemise auhinna, siis aaria rassi auhinna tõupuhtuse eest, siis veel ee-eee ... geisensibiilsuse auhinna, siis viljakuse auhinna, siis ...""";22;13
+au_hind:obj andma;aja_ee200110_951;Anname auhinna;conj;Gen;ei;conj->obj;"Tolk naeratab laialt nagu B-filmi fashist enne juudi ahju saatmist: ""Anname välja loomingulise põlemise auhinna, siis aaria rassi auhinna tõupuhtuse eest, siis veel ee-eee ... geisensibiilsuse auhinna, siis viljakuse auhinna, siis ...""";31;13
+au_hind:obj andma;aja_ee200110_951;Anname auhinna;conj;Gen;ei;conj->obj;"Tolk naeratab laialt nagu B-filmi fashist enne juudi ahju saatmist: ""Anname välja loomingulise põlemise auhinna, siis aaria rassi auhinna tõupuhtuse eest, siis veel ee-eee ... geisensibiilsuse auhinna, siis viljakuse auhinna, siis ...""";35;13
+ette_panek:obj tegema;aja_ee200110_977;teeb ettepaneku;obj;Gen;ei;obj;Ken teeb ettepaneku alla minna.;3;2
+viha:Par pidama;aja_ee200110_989;viha pea;obj;Par;ei;obj;Marica tunnistab, et ta tõmmati haneks, aga viha ei pea - ikkagi pullitegemine.;10;12
+plaan:obj pidama;aja_ee200110_997;peab plaani;obj;Par;ei;obj;Ken peab plaani.;3;2
+plaan:obj pidama;aja_ee200110_998;peab plaani;obj;Par;ei;obj;Tolk peab plaani.;3;2
+plaan:obj pidama;aja_ee200110_999;peab plaani;obj;Par;ei;obj;Rezhissöör Andres Maimik peab plaani.;5;4
+uhkus:Par tundma;aja_epl20061216_130;tundma uhkust;obj;Par;ei;obj;Ilves ütles, et suurde Euroopasse kuuludes peame tundma rohkem uhkust selle üle, kust oleme pärit.;11;9
+sisse_ost:Par tegema;aja_epl20061216_14;sisseoste teha;obj;Par;ei;obj;"Kanal 2 ""Reporteri"" (6.12) saatejuht püüdis mõnes Tallinna kaupluses eesti keelt kasutades sisseoste teha, aga sellest ei tulnud midagi välja.";17;18
+luba:obj andma;aja_epl20061216_175;andma loa;obj;Gen;ei;obj;Kaitsealale suusaraja tegemiseks oleks pidanud andma loa valitsus.;7;6
+luba:obj andma;aja_epl20061216_181;luba anti;obj;Nom;jah;obj;Seda, kuidas sihtkaitsevööndisse suusakeskuse rajamiseks üldse luba anti, ei oska Tuul arvata.;8;9
+luba:obj andma;aja_epl20061216_182;andis loa;obj;Gen;ei;obj;Metsaraieks andis loa Valgamaa keskkonnateenistus, mille juhataja Johannes Järve sõnul lähtuti Otepää looduspargi poolt heaks kiidetud detailplaneeringust, mille kohaselt oli Tehvandi suusaraja rajamiseks õigus raieluba välja anda.;3;2
+kuri_tegu:obj toime panema;aja_epl20061216_193;toime pannud kuriteo;obj | compound:idiom;Gen | Add;ei;obj;Kodakondsuse seaduse järgi ei võimalda eriliste teenete eest kodakondust anda näiteks see, kui inimene on esitanud valeandmeid, ei järgi Eesti seadusi, on tegutsenud Eesti riigi ja tema julgeoleku vastu, on toime pannud kuriteo või on töötanud või töötab välisriigi luure- või julgeolekuteenistuses.;37;36
+mure:Par tegema;aja_epl20061216_2;teeb muret;obj;Par;ei;obj;Juba praegu teeb tuleviku elanikkonna ennustatav kõrge-ealisus pensioni- ja haigekassadele muret.;11;3
+ette_panek:obj tegema;aja_epl20061216_290;teha ettepaneku;obj;Gen;ei;obj;Saaremaa liha- ja piimaühistu juhatus ja nõukogu otsustasid ühiselt teha ühistu volinike koosolekule ettepaneku müüa Saaremaa Liha- ja Piimatööstuse lihatööstus ettevõtja Vjatšeslav Leedo AS-ile Saare Finants.;14;10
+mure:Par tegema;aja_epl20061216_299;teeb muret;obj;Par;ei;obj;Poepidajale teeb muret see, et parklasse mahub vaid neli autot.;3;2
+võimalus:obj andma;aja_epl20061216_495;annavad võimaluse;obj;Gen;ei;obj;Keeleuurijatele seevastu annavad needsamad kirjandid tänuväärse võimaluse kiigata tulevikku: missugune võiks eesti keel olla aastakümnete ja õnne korral sajanditegi pärast?;7;3
+jaht:Par pidama;aja_epl20061216_515;jahti pidada;obj;Par;ei;obj;USA Texase osariigi esindajatekoja liige Edmund Kuempel on algatanud seadusmuudatuse, mis lubaks ka pimedatel inimestel jahti pidada.;17;18
+kokku_võte:obj tegema;aja_epl20061216_582;tegid kokkuvõtte;obj;Gen;ei;obj;Möödunud reedel tegid asjaosalised kaevamise tulemustest kokkuvõtte.;7;3
+luba:obj andma;aja_epl20070812_15;anda loa;obj;Gen;ei;obj;Ilmsiks tulnud käsk põgenikke tulistada on selge tõestus selle kohta, et Ida-Saksamaa kommunistlik režiim võis anda vajadusel loa inimene tappa, rääkis Stas-i dokumente haldava organisatsiooni direktor BBC-le.;19;17
+töö:Par tegema;aja_epl20070812_62;tegi tööd;obj;Par;ei;obj;"""Kolonel Terras seisis silmitsi tõsiste raskustega treeningmissiooni elutegevuse tagamisel, aga tegi oma tööd erakordse professionaalsuse ja pühendumusega,"" ütles NATO treeningmissiooni Iraagis ülema asetäitja kindralmajor Alessandro Pompegiani.";15;13
+abi:Par andma;aja_horisont2000_1157;abi anda;obj;Par;ei;obj;Ühegi teise võttega ei saa sügavalt norskajale seesugust abi anda.;9;10
+abi:Par andma;aja_horisont2000_1181;antakse abi;obj;Par;jah;obj;Selle kõrvaldamiseks antakse kompleksset abi Tartu Ülikooli kõrva- ja kurgukliinikus.;5;3
+sõda:Par pidama;aja_horisont2000_119;sõdu peetud;obj;Par;jah;obj;Tegelikkuses on suuri sõdu peetud ka teistel aastakümnetel.;4;5
+võimalus:obj andma;aja_horisont2000_1191;andis võimaluse;obj;Gen;ei;obj;Loomulikult andis kindlustatud värav sõjasadama valdajale võimaluse kontrollida ka igat lahte sisenevat alust.;7;2
+algus:Par tegema;aja_horisont2000_1196;tegid algust;obj;Par;ei;obj;Tööga tegid algust küll tsaariarmee soldatid, ent peagi jätkasid sunnitöölised, kes pankrannikust lahtimurtud paekividega mere pidid täitma.;3;2
+huvi:Par tundma;aja_horisont2000_1265;tunnevad huvi;obj;Par;ei;obj;Siis olengi mõelnud, et vaatamata sellele, kas inimesed tunnevad huvi autode või aeroplaanide, maksusüsteemi või teoloogia vastu, on nad avaliku elu või allmaategelased, mungad või sübariidid, jagavad nad enamasti huvi inimkeha vastu.;12;11
+sõda:Par pidama;aja_horisont2000_137;sõdu peetud;obj;Par;jah;obj;On ju suuri sõdu peetud ka teistel aastakümnetel.;4;5
+hoop:obj andma;aja_horisont2000_1465;anda hoop;obj;Nom;ei;obj;Vahepeal üritas üks, siis teine anda peaga vastasele hoop, nood aga ei tundunud olevat küll kuigi tõsised.;10;7
+ette_panek:obj tegema;aja_horisont2000_176;tegi ettepaneku;obj;Gen;ei;obj;1889 tegi Bismarck Briti peaministrile Robert Arthur Talbot Gascoyne-Cecil Salisburyle ettepaneku sõlmida ametlik, kuigi salajane, liiduleping Prantsusmaa vastu.;11;2
+ette_panek:obj tegema;aja_horisont2000_214;tegi ettepanekuid;obj;Par;ei;obj;Aafrikas tehtud järeleandmistele lootes tegi Caprivi oma kantsleriks oleku ajal (1890-1894) Briti diplomaatidele korduvalt ettepanekuid ühinemiseks Kolmikliiduga, kuid said ikka eitava vastuse.;17;5
+kõne:obj pidama;aja_horisont2000_224;pidas kõne;obj;Gen;ei;obj;Teel peatus ta Konstantinoopolis ja pidas Damaskuses kõne, milles kuulutas end 300 miljoni muhameedlase ja Türgi sultani sõbraks.;8;6
+töö:Par tegema;aja_horisont2000_278;tööd teha;obj;Par;ei;obj;· Nautis Aarau kantonikoolis (kus ta sooritas abituuriumi) valitsenud Pestalozzi vaba ja humaanset vaimu, eelkõige õpetaja vabadust õpetamismeetodite valikul ja sellest tulenevat rõõmu õpetajaga ühist tööd teha.;29;30
+töö:Par tegema;aja_horisont2000_432;tegema tööd;obj;Par;ei;obj;Sikhid ei usu ka astroloogiat ega muid hämaraid asju, peavad tegema ausat tööd ja mitte sallima rassilist, usulist või soolist diskrimineerimist.;14;12
+võimalus:obj andma;aja_horisont2000_573;annavad võimalusi;obj;Par;ei;obj;Teine suund seondub embrüonaalsete tüvirakkudega, viimased annavad väga palju uusi võimalusi.;12;8
+katse:Par tegema;aja_horisont2000_584;katseid tehakse;obj;Par;jah;obj;Primaadid on ju meile tegelikult väga lähedased, ent katseid nendega paraku ikkagi tehakse.;10;14
+katse:Par tegema;aja_horisont2000_588;teeb katseid;obj;Par;ei;obj;Inglismaal tegeleb sellega biotehnoloogiafirma Imutran, kes teeb katseid ka primaatidega ning on Euroopas sellel alal kõige kaugemale jõudnud.;9;8
+katse:Par tegema;aja_horisont2000_637;teed katse;obj;Gen;ei;obj;Kui sa teed katse ja see rahuldab sinu hüpoteesi, pole enam aega järele mõtelda.;4;3
+huvi:Par tundma;aja_horisont2000_717;tunne huvi;obj;Par;ei;obj;Mulle ei meeldi selline amerikaniseerumine, eriti tehnoloogilistel aladel, et igaüks teab kitsalt vaid mingit oma lõiku ning ei tunne maailma asjade vastu suurt huvi.;26;21
+töö:Par tegema;aja_horisont2000_74;tööd teinud;obj;Par;ei;obj;Sel alal on märkimisväärset tööd teinud meie põhjanaabrid.;5;6
+töö:Par tegema;aja_luup200009_118;tööd teha;obj;Par;ei;obj;Mina ei tahtnud niisama aega viita, mööda pidusid käia, mina tahtsin tööd teha. ”;14;15
+rumalus:Par tegema;aja_luup200009_280;teha rumalusi;obj;Par;ei;obj;Raske on leida veel rumalamat tegevust kui üritada teha rumalusi üha paremini.;10;9
+töö:Par tegema;aja_luup200009_294;tööd teha;obj;Par;ei;obj;Üks asi näikse selge olevat: kui mõnes riigis rahvas või väga suur osa rahvast enam ei oska, ei taha, ei viitsi, ei julge (häbeneb) tööd teha, siis pole sellel rahval mingit väljavaadet üha karmistuvas konkurentsis ellu jääda.;31;32
+otsus:obj tegema;aja_luup200009_298;otsuseid teha;obj;Par;ei;obj;Kahjuks saavad häid otsuseid teha vaid asjatundlikud isikud.;4;5
+töö:Par tegema;aja_luup200009_301;tööd teha;obj;Par;ei;obj;Selline ühiskond, kus on silmapaistvalt edukad vaid parasiteerivad struktuurid ning kus tööd teha oskaval ja tahtval inimesel ei ole võimalik oma töö eest saadud palgast ära elada, ei vääri kuigi suurt tunnustust ega sobi teistele eeskujuks.;13;14
+asi:Par ajama;aja_luup200009_379;asja aetud;obj;Par;jah;obj;Eesti asja - näiteks ka Euroopa Liidu läbirääkimisi - on seni aetud riigiametnike tasemel.;2;12
+karjäär:Par tegema;aja_luup200009_395;karjääri teha;obj;Par;ei;obj;Nüüd on probleem, et uutel pole eriti võimalust karjääri teha.;10;11
+töö:Par tegema;aja_luup200009_44;tööd teha;obj;Par;ei;obj;Pea kõik 5. oktoobril 1949 kilinad-kulinad rinda saanud rabasid tööd teha Udeva mõisa vanas laudas.;10;11
+otsus:obj vastu võtma;aja_luup200009_473;vastu võtma otsuse;obj | compound:prt;Gen | ;ei;obj;Pärast seda, kui immigrantide suhtes liberaalse Shveitsi sisepoliitilised pinged sundisid valitsust vastu võtma otsuse, et kõik passita võõramaalased peavad mai lõpuks riigist lahkuma, on pooled juba läinud.;15;14
+luba:obj andma;aja_luup200009_482;anna luba;obj;Par;ei;obj;Bekajd käiks meelsasti tööl, kuid välismaalaste passid ei anna neile selleks luba.;13;10
+au_tasu:obj andma;aja_luup200009_52;anti autasud;obj;Nom;jah;obj;Praeguses presidendilossis Kadriorus anti autasud üle ja tehti suur pidu.;5;4
+piinlikkus:Par tundma;aja_luup200009_551;tunnevad piinlikkust;obj;Par;ei;obj;Praegu tunnevad mõned Hollandi mereväe juhtivad tegelased piinlikkust ühe pikantse vahejuhtumi ilmsikstuleku pärast, mille kohta saadetakse neile kogu maailmast järelepärimisi.;8;2
+töö:Par tegema;aja_luup200009_56;Tööd teha;obj;Par;ei;obj;Tööd tuli kõigil teha.;1;4
+huvi:Par tundma;aja_luup200009_562;tunne huvi;obj;Par;ei;obj;Laisk lääs ei tunne asjade vastu huvi, ei vaata Vene küsimuses kaugele ette.;7;4
+karjäär:Par tegema;aja_luup200009_660;tegi karjääri;obj;Par;ei;obj;Putin tegi üsnagi suurt karjääri.;5;2
+võimalus:obj andma;aja_luup200009_713;annaks võimaluse;obj;Gen;ei;obj;Samuti annaks see võimaluse konsultatsioonide turustamiseks, kvalifitseeritud tööjõu kasutamiseks ja ümberõppeks, kohalike mõttetankide ja strateegide parimaks realiseerimiseks.;4;2
+võimalus:obj andma;aja_luup200009_719;annaks võimaluse;obj;Gen;ei;obj;Agentuur töötaks vastavalt nõudlusele - õige ajastus ja teenuste pakkumine annaks nii töövõtjale kui ka riigile suurema lisaväärtuse saamise võimaluse.;20;11
+töö:Par tegema;aja_luup200009_76;Tegi tööd;obj;Par;ei;obj;Tegi igapäevast tööd.;3;1
+õppe_tund:obj andma;aja_luup200009_803;annavad õppetunni;obj;Gen;ei;obj;Sündmused USA börsil annavad eestlastele hea õppetunni.;7;4
+töö:Par tegema;aja_luup200009_81;Tegin tööd;obj;Par;ei;obj;“ Tegin oma igapäevast tööd. ”;5;2
+mure:Par tegema;aja_luup200009_837;muret tegema;obj;Par;ei;obj;Nagu hiljem selgus, olid ameeriklased venelaste allveelaevastikku tol ajal kõvasti üle hinnanud, aga siiski hakkas muret tegema, et venelaste Akula 2 oli juba vaiksem kui ameeriklaste Los Angeles-klassi allveelaev.;18;19
+müra:Par tegema;aja_luup200009_843;teeb müra;obj;Par;ei;obj;Seawolfi loojate tulemused olid ootuspärased - ta on palju kiirem ja ka parema manööverdusvõimega kui Los Angeles ja mis kõige tähtsam - Seawolf teeb täiskäigul sõites sama palju müra kui Los Angeles-klassi allveelaev kai ääres seistes!;29;24
+töö:Par tegema;aja_luup200009_90;Tööd teha;obj;Par;ei;obj;“ Tööd tuli hirmsasti teha, aga eks seda tegid kõik, ” ei taha Leida Vinkel end esile tõsta.;2;5
+töö:Par tegema;aja_luup200009_927;tööd teinud;obj;Par;ei;obj;Seda tööd on ta teinud Kirjandusmuuseumi rahvaluulearhiivis ja ekspeditsioonidel alates ülikooli ajast Tartus, mil tema kursuse- ja diplomitööd juhendasid legendaarsed rahvaluuleteadlased Udo Kolk ja Eduard Laugaste.;2;5
+huvi:Par tundma;aja_luup200009_930;tundnud huvi;obj;Par;ei;obj;Eha on tundnud sügavamat huvi ka teiste rahvaste folkloori ja mütoloogia vastu, kuid tõsiselt uurida saab tema arvates üksnes selle rahva pärimust, kelle keelt sa valdad.;5;3
+võimalus:obj andma;aja_luup200106_1125;võimaluse annab;obj;Gen;ei;obj;Päästa saab seda, kes ise võimaluse annab ja seda soovib.;7;8
+võimalus:obj andma;aja_luup200106_1138;antakse võimalus;obj;Nom;jah;obj;See on nõiaring: kuritegu põhjustab pahameele ja inimestele siltide külge riputamise, see omakorda vähendab tõenäosust, et antakse võimalus ennast tõestada, mis omakorda viib uue, vahel ka hullema teoni, mis omakorda põhjustab uue ja suurema pahameele ning tõrjumise ...;21;20
+luba:obj andma;aja_luup200106_1177;andis loa;obj;Gen;ei;obj;Seejärel andis tänulik kuningas Gregoriusele loa kogu rahvas ristiusku pöörata.;6;2
+tõuge:obj andma;aja_luup200106_1180;andis tõuke;obj;Gen;ei;obj;Ristiusku pöördumine andis tugeva tõuke kultuuri arengule.;5;3
+igatsus:Par tundma;aja_luup200106_1208;Tunnete igatsust;obj;Par;ei;obj;Tunnete igatsust hea nõukogude aja järele?;2;1
+sõda:Par pidama;aja_luup200106_1213;peavad sõdu;obj;Par;ei;obj;Nagu vahel pärisriigid, peavad ka mikronatsioonid aeg-ajalt sõdu.;9;5
+asi:Par ajama;aja_luup200106_1249;ajama asju;obj;Par;ei;obj;Oli selge, et neis maades hakatakse varsti ajama asju emakeeles.;10;9
+võimalus:obj andma;aja_luup200106_1256;andsid võimaluse;obj;Gen;ei;obj;Need andsid võimaluse lähemalt uurida (taas)vabanevate maade üleminekuperioodi.;3;2
+läbi_rääkimine:Par pidama;aja_luup200106_1279;Peame läbirääkimisi;obj;Par;ei;obj;Peame läbirääkimisi Tallinna Pedagoogikaülikooliga.;2;1
+takistus:Par tegema;aja_luup200106_1300;teinudki takistusi;obj;Par;ei;obj;Soveedid, kes kahtlustasid, et olen KGB poolt värvatud ja lisaks veel kõrges auastmes, ei teinudki ületamatuid takistusi, kui avaldasin soovi külastada Eestit ja Karjalat.;20;18
+korraldus:obj andma;aja_luup200106_1370;andis korralduse;obj;Gen;ei;obj;Pärast akna raiumist Euroopasse ehk Peterburi rajamist Nevanlinna kohale 1703. aastal andis ta oma kaupmeestele korralduse kaubelda ainult Peterburis.;16;12
+tähele_panek:Par tegema;aja_luup200106_1447;tähelepanekud tehti;obj;Nom;jah;obj;Näiteks esimesed tähelepanekud Unverrichti-Lundborgi haigusest tehti 19. sajandi lõpul H. Unverrichti poolt just Eestis.;3;6
+lahing:obj pidama;aja_luup200106_1539;pidas lahingu;obj;Gen;ei;obj;Xerox pidas õnnestunult lahingu sõna “ xerox ” kasutamise vastu koopia sünonüümina kirjasõnas.;4;2
+nõus_olek:obj andma;aja_luup200106_1549;nõusoleku andnud;obj;Gen;ei;obj;Teine asi, kui oleme ise selleks nõusoleku andnud.;8;9
+nõus_olek:obj andma;aja_luup200106_1552;nõusoleku andma;obj;Gen;ei;obj;Neil on ühine seisukoht: kustutamise võimaluse andmisest on vähe ning reklaami saamiseks peab inimene eelnevalt oma nõusoleku andma.;18;19
+huvi:Par tundma;aja_luup200106_196;tunne huvi;obj;Par;ei;obj;Üheksa eestlast kümnest ei tunne huvi, millist tulu nende säästud teenivad.;6;5
+valik:obj tegema;aja_luup200106_266;teha valik;obj;Nom;ei;obj;Kuidas teha valik?;3;2
+läbi_rääkimine:Par pidama;aja_luup200106_368;läbirääkimisi peetakse;obj;Par;jah;obj;Suur osa euroskeptitsismist on tekkinud just sellest, et nähakse, kuidas neid läbirääkimisi peetakse, aga samal ajal käivad mingid euroläbirääkimised.;14;15
+võimalus:obj andma;aja_luup200106_478;annaks võimaluse;obj;Gen;ei;obj;See annaks ELile võimaluse, mida nad pikisilmi ootavad.;4;2
+liug:Par laskma;aja_luup200106_495;lasevad liugu;obj;Par;ei;obj;Kreeklased, itaallased ja hispaanlased lasevad Saksa ja Hollandi tugeva majanduse najal lihtsalt liugu.;14;6
+kulutus:Par tegema;aja_luup200106_551;teha kulutusi;obj;Par;ei;obj;Laanjärve meelest oleks lähema viie aasta jooksul mõttekam teha kulutusi hoopis kinnipidamiskohtadele.;10;9
+koos_töö:Par tegema;aja_luup200106_643;tegime koostööd;obj;Par;ei;obj;Kõik me, nii Mart Niklus, Jüri Kukk, Erik Udam, mina kui paljud teised, tegime tihedat koostööd Vene dissidentidega, nende seas Andrei Sahharoviga.;21;19
+vastus:Par andma;aja_luup200106_653;Vastuse annab;obj;Gen;ei;obj;Vastuse neile küsimustele annab Tartu Ülikooli politoloogiaõppejõu Jüri Ruusi Anton Sheeniga kahasse valminud uurimistöö “ Režiimi vahetus - kas eliidi järjepidevus? ”.;1;4
+huvi:Par tundma;aja_luup200106_710;tunne huvi;obj;Par;ei;obj;Neljandaks, erasfääris ei tunne suurt keegi huvi poliitilise mineviku vastu, küll on see aga möödapääsmatu poliitikas ja riigiametis.;8;5
+otsus:obj tegema;aja_luup200106_799;tegema otsuseid;obj;Par;ei;obj;Eraülikoolid on juurde toonud konkurentsi ja sundinud avalik-õiguslike kõrgkoole tegema otsuseid kiiremini ja paindlikumalt, ennast sisemiselt reformima.;11;10
+otsus:obj vastu võtma;aja_luup200106_852;otsused võetakse vastu;obj | compound:prt;Nom | ;jah;obj;Pankadega toimuvad otsused võetakse vastu väljaspool Eestit.;3;4
+mure:Par tegema;aja_luup200106_914;teeb muret;obj;Par;ei;obj;Säärane suhtumine teeb meile tõsist muret ja selline seisukoht on täiesti vale.;6;3
+asi:Par ajama;aja_luup200202_139;asju ajada;obj;Par;ei;obj;“ Tarkade inimestega, kui nad pole jonnakad, saab alati asju ajada.;12;13
+uhkus:Par tundma;aja_luup200202_198;uhkust tunda;obj;Par;ei;obj;Üksnes tehnilise ja haridusliku valmisoleku poolest võib Eesti ühiskond uhkust tunda, märgib raport.;10;11
+panus:obj tegema;aja_luup200202_223;teha panus;obj;Nom;ei;obj;Tänapäeva maailmas tasub edule lootes teha panus just viimasele.;7;6
+järeldus:obj tegema;aja_luup200202_224;järeldusi teha;obj;Par;ei;obj;Pole teada, kas Euroopa maade liidrid kavatsevad tulevikuks valmisolekuindeksist ka mingeid järeldusi teha.;13;14
+valik:obj tegema;aja_luup200202_246;tegema valiku;obj;Gen;ei;obj;Tehniliselt on see muidugi tülikas - inimene peab tegema valiku umbes paari tuhande kandidaadi seast.;10;9
+töö:Par tegema;aja_luup200202_359;teha tööd;obj;Par;ei;obj;See on areng ja protsess, kus liidritel on suur roll, kuid streigi korraldamine ja selles kaasalöömise on sügavalt isiklik otsus - vabadus pigem mitte teha tööd kui teha seda tingimustel, mida tööandja mulle pakub.;28;27
+töö:Par tegema;aja_luup200202_394;teevad töö;obj;Gen;ei;obj;Robotid teevad ära füüsilise töö, arvutitarkvara vahetab välja pintsaklipslased.;5;2
+rõõm:Par tundma;aja_luup200202_423;tunda rõõmu;obj;Par;ei;obj;Nõnda esitab ta igaühele väljakutse tunda oma individuaalsusest rõõmu ja luua väärtusi.;9;6
+tunnistus:Par andma;aja_luup200202_479;annavad tunnistust;obj;Par;ei;obj;Nazarbajev ei tunne puudust ka suurejoonelistest visioonidest: pealinna üleviimine Almatõst stepilinna Astanasse või riiklik arengustrateegia “ Kasahstan 2030 ”, mis peab lähikümnenditega riigi viima arenenud maade sekka ja millest annavad tunnistust linnadesse üles seatud hiigelplakatid, on vaid mõned näited.;33;32
+pulm:obj tegema;aja_luup200202_506;tehakse pulmad;obj;Nom;jah;obj;Ning tõenäoliselt on ka vaesuses elaval perel kõrvale pandud kuus või seitse tuhat dollarit, mille eest tehakse lastele uhked pulmad.;21;18
+nõus_olek:obj andma;aja_luup200202_583;andma nõusoleku;obj;Gen;ei;obj;Ka pidi Maxima andma abielulepingus nõusoleku, et kui abielu tulevase Hollandi kuningaga peaks mingil põhjusel purunema, siis ei saa ta erinevalt teistest emadest nõuda isegi kohtu kaudu õigust oma lastele, kes on tulevased Hollandi printsid-printsessid (troonipärijad).;6;4
+nõus_olek:obj andma;aja_luup200202_584;andis nõusoleku;obj;Gen;ei;obj;Tulevase Euroopa usulise tasakaalu huvides andis katoliiklane Maxima veel ka kirjaliku nõusoleku, et oma abikaasa surma korral ei asu ta ise Hollandi troonile (ega asu oma laste alaealisuse korral regendiks) ja annab selle õiguse oma kalvinistideks kasvatatud lastele.;12;6
+nõus_olek:obj andma;aja_luup200202_630;annab nõusoleku;obj;Gen;ei;obj;Nn saksa mudeli korral tohib terviseandmeid saata registrisse juhul, kui haigestunu annab selleks kirjaliku nõusoleku.;16;13
+panus:obj tegema;aja_luup200202_640;teha panus;obj;Nom;ei;obj;"Kui nendes lahjendatud andmekogudes registreeritavate juhtude analüüs pakuks riigile tõsist huvi, tuleks teha otsustav panus andmekoosseisu muutmisele; kui mitte, saaks niigi kõhnukesed rahavood ümber suunata vähemalt ühe järjekorras ootava tõelise registri - olgu selleks siis kaasasündinud väärarendite, südameinfarkti-, trauma- või diabeediregistri - loomisele.";16;14
+investeering:Par tegema;aja_luup200202_703;tegi investeeringud;obj;Nom;ei;obj;Väliskapital tegi vajalikud investeeringud ning tagas teadmised ja konkurentsi.;4;2
+laul:Par lööma;aja_luup200202_74;lööb laulu;obj;Par;ei;obj;Teadsid, et muidu täitsa korralik eesti inimene, aga samal ajal lööb karjääri huvides niisugust laulu, et ohhohoo. ”;17;13
+kaup:Par tegema;aja_luup200202_795;teha kaubad;obj;Nom;ei;obj;Ulatusliku rahaliste toetuste süsteemi juurutamise asemel tuleks hädasolijatele kättesaadavaks teha konkreetsed kaubad ja teenused, rõhutab Maailmapank.;12;10
+laen:Par võtma;aja_luup200202_822;võtma laenu;obj;Par;ei;obj;Eriti kannatavad selle all väikese sissetulekuga inimesed, kes pahatihti peavad ravi eest maksmiseks pantima või müüma oma vara või võtma laenu.;22;21
+panus:obj tegema;aja_luup200202_836;teevad panuse;obj;Gen;ei;obj;Ettevõtted, kellel on siiski õnnestunud turule tulla, teevad panuse pigem eritingimuste, seadusaukude ja soodustuste otsimisele selmet arendada vaba ettevõtlust.;11;10
+töö:Par tegema;aja_luup200202_891;teevad tööd;obj;Par;ei;obj;Selle nimel, et see kõik reaalseks muutuks, teevad tööd USA kaitseministeeriumi sõjaliseks kasutuseks mõeldud uue tehnika arendamise keskuse DARPA (Defense Advanced Research Projects Agency) ehk siis Riigikaitse Progressiivuuringuprojektide Agentuuri teadlased.;11;10
+järeldus:obj tegema;aja_luup200202_924;järeldusi teha;obj;Par;ei;obj;Nad ei oska järeldusi teha ega olukorda adekvaatselt hinnata.;4;5
+eel_töö:Par tegema;aja_luup200202_945;teeb eeltöö;obj;Gen;ei;obj;Sageli on nii, et DARPA teeb ainult eeltöö ja mõni muu firma arendab idee valmistooteni.;9;7
+teave:Par andma;aja_ml200247_1025;anda teavet;obj;Par;ei;obj;Teisalt, kuna Eestis on levinud nii väärarusaamu kui ka põhjendamatuid ootusi ELi põllumajandus- ja maaelumeetmete kasutamise kohta, on korraldajad seadnud eesmärgiks anda osavõtjaile teavet ka põllumajandusega seotud strukturaalfondidest, eriti nendest, mis aitavad kaasa maapiirkonna arengule.;26;24
+töö:Par tegema;aja_ml200247_1038;tööd tegi;obj;Par;ei;obj;Raha tuli muinsuskaitseameti kaudu Eesti riigilt, tööd tegi osaühing Frantsiskus.;8;9
+otsus:obj vastu võtma;aja_ml200247_1048;võtab vastu otsuse;obj | compound:prt;Gen | ;ei;obj;Kuna Tartu vangla kinnipeetavate arv ületas esmaspäeval 500 piiri, teatas Tartu linnapea Andrus Ansip Postimehele, et linnavalitsus võtab vastu otsuse tühistada vangla kasutusluba.;22;20
+võimalus:obj andma;aja_ml200247_1145;anda võimalus;obj;Nom;ei;obj;Kui asja kas või puhtmajanduslikult võtta, siis kumb on otstarbekam: kas maksta vaesematele maainimestele näljapajukit sotsiaaltoetuste näol või anda neile võimalus ise toime tulla.;23;21
+ette_panek:obj tegema;aja_ml200247_1272;tehakse ettepanek;obj;Nom;jah;obj;Olen nõus oma vibupüssi peale kihla vedama, et kümne aasta pärast näeb Riigikogu seaduseelnõu, millega tehakse ettepanek kasutusvaldusse antud maad igaveseks ja lõplikult senistele valdajatele anda.;19;18
+võitlus:Par pidama;aja_ml200247_1310;peavad võitlust;obj;Par;ei;obj;Suured tootjad, hiidkompaniid peavad ikka agressiivsemalt võitlust turgude ja tarbijate pärast ning ei põlga kasutada inimeste mõjutamiseks rafineeritult alatuid vahendeid.;8;5
+luba:obj andma;aja_ml200247_1330;antakse luba;obj;Nom;jah;obj;Kui ühele tehakse keskkonnaministeeriumis erand ja antakse luba randa ehitada, siis on õigus ka teisel sama erandit tahta.;8;7
+koos_töö:Par tegema;aja_ml200247_1341;teha koostööd;obj;Par;ei;obj;"""Tahame teha eri organisatsioonidega rohkem koostööd,"" nentis Kaur.";7;3
+takistus:Par tegema;aja_ml200247_1457;teha takistusi;obj;Par;ei;obj;Kaaskirjas oli öeldud, et tuleb võtta arvesse, et vanaautoharrastus on rahvusvaheliselt aktsepteeritud tegevus, millesse palus mees vastavalt suhtuda, ja mitte teha takistusi inimeste omavaheliseks läbikäimiseks jne.;26;25
+töö:Par tegema;aja_ml200247_147;tööd teha;obj;Par;ei;obj;Püüan järjepidevalt enda kallal tööd teha.;5;6
+töö:Par tegema;aja_ml200247_150;tööd teha;obj;Nom;ei;obj;Ebaprofessionaalne suhtumine: huvi puudus muusika vastu, üldine vaimulõtvus - kui inimesed, kellega tuleb tööd teha, silmanähtavalt ei armasta ega naudi oma tööd.;17;18
+võimalus:obj andma;aja_ml200247_1541;andis võimaluse;obj;Gen;ei;obj;Ehk andis see algusest saadik võimaluse põgeneda argipäevast teistsugusesse, paremasse maailma.;6;2
+rõõm:Par tundma;aja_ml200247_1572;tunneb rõõmu;obj;Par;ei;obj;Nüüd on Gerda Eestis tagasi, elab Haapsalus ja tunneb rõõmu sellest, et oma kodu - oma maja - on valmimas.;11;10
+võitlus:Par pidama;aja_ml200247_1582;võitlust pidasid;obj;Par;ei;obj;Ka siis, kui arstid tema tuberkuloosiga võitlust pidasid, keetis ta maateesid nende ravile lisaks.;8;9
+mure:Par tegema;aja_ml200247_1604;teeb muret;obj;Par;ei;obj;Pool sajandit maad mõõtnud Tammele teeb muret, et nüüdisajal ei ole maamõõtjatel enam vajalikku täpsust, nii otseses kui ka kaudses mõttes.;7;6
+töö:Par tegema;aja_ml200247_18;tööd teevad;obj;Par;ei;obj;Küsimus piirikoerte vajalikkusest ja sellest, miks nad seda tööd teevad, pani nii mõnegi koerajuhi sügavalt mõtlema.;10;11
+amet:Par pidama;aja_ml200247_1823;ametit pidanud;obj;Par;ei;obj;Mul ei sobi vastata, sest olen 12 aastat seda ametit pidanud.;11;12
+lubadus:obj andma;aja_ml200247_1846;Andsin lubaduse;obj;Gen;ei;obj;Andsin endale siis lubaduse, et mitte kunagi mitte ühtegi seepi.;4;1
+töö:Par tegema;aja_ml200247_188;tööd teha;obj;Par;ei;obj;See tähendab, et tööd tuleb teha rohkem, sest tulemus tuleb raskemini kätte - materjal osutab suuremat vastupanu.;5;7
+iste:Par võtma;aja_ml200247_1935;võtavad istet;obj;Par;ei;obj;Lõpuks võtavad Rüütel ja Klas klaveri taga istet ja laulavad, nende kapten Urmas Lattikas mängib klaverit.;8;2
+töö:Par tegema;aja_ml200247_2122;tööd tegema;obj;Par;ei;obj;Õpilane on ju põhikooli lõpetamisel alles 15-16 aastat vana ja kui sel ajal tuleb ära otsustada, millist tööd hiljem tegema hakata, siis pole see just lihtne.;19;21
+koos_töö:Par tegema;aja_ml200247_2150;teete koostööd;obj;Par;ei;obj;Kellega või milliste organisatsioonidega teete koostööd või peate koostööd vajalikuks (näiteks ettevõtjatega vms)?;6;5
+koos_töö:Par tegema;aja_ml200247_2151;Teeme koostööd;obj;Par;ei;obj;Teeme koostööd paljudega.;2;1
+võimalus:obj andma;aja_ml200247_2196;annab võimalust;conj;Par;ei;conj->obj;Õpetajate meelest annab see enesekindlust, esinemisoskust ja võimalust aina juurde õppida.;9;3
+ette_valmistus:obj tegema;aja_ml200247_220;ettevalmistusi teha;obj;Par;ei;obj;Prints Charles huvitus juba üksikasjadest, kuidas me oleme suutnud nii Euroopa Liidu kui NATO suunal ettevalmistusi teha.;17;18
+töö:Par tegema;aja_ml200247_2212;tööd teha;obj;Par;ei;obj;Kõik see kokku tähendab tudengile, et ta ei pea kohe hakkama otsima võimalusi kooli kõrvalt tööd teha enda äraelatamiseks, vaid võib end pühendada õppimisele.;17;18
+takistus:Par tegema;aja_ml200247_2236;takistusi teinud;obj;Par;ei;obj;Keegi mingeid takistusi ei teinud, pigem õhutasid kõik tagant ning lasksid tüdrukul endal otsustada ja saadud kogemustest õppida.;3;5
+rõõm:Par tundma;aja_ml200247_2264;tuntakse rõõmu;obj;Par;jah;obj;Kodukandi Liikumine ühendab aktiivsemaid, n-ö sädeinimesi ja külasid, kus tuntakse rõõmu koostegemisest, õppimisest, enese arendamisest ja uute kogemuste saamisest.;13;12
+asi:Par ajama;aja_ml200247_2297;ajab asju;obj;Par;ei;obj;Nüüd vaadatakse aga selle pilguga, kas mehest võiks kasu olla, kas ta seisab kohalike inimeste eest või käib Tallinnas tööl ja ajab oma asju.;26;24
+võimalus:obj andma;aja_ml200247_2342;annavad võimaluse;obj;Gen;ei;obj;Väikesed projektisummad annavad võimaluse midagi teha, kogeda ja õppida, sellelt pinnalt on võimalik edasi minna ja lõpuks kas või oma firma asutada.;4;3
+loeng:obj pidama;aja_ml200247_245;pidasin loenguid;obj;Par;ei;obj;Kuna ma pidasin Oxfordi ülikoolis 1993. aastal loenguid mitmes kolledžis, olen ülikooliga juba teatud määral tuttav.;8;3
+loeng:obj pidama;aja_ml200247_247;Pidasin loengu;obj;Gen;ei;obj;Pidasin loengu ühiskonna väärtushinnangutest, Euroopa traditsioonidest ja kultuurist.;2;1
+peatus:Gen tegema;aja_ml200247_282;tegime peatuse;obj;Gen;ei;obj;Winston Churchilli kuju ees tegime väikese peatuse.;7;5
+töö:Par tegema;aja_ml200247_29;töö teinud;obj;Gen;ei;obj;Ta teab, et kui on oma töö hästi ära teinud, ootab teda tubli kõhutäis ja koerajuhi kiitus.;8;11
+huvi:Par tundma;aja_ml200247_300;tunneb huvi;obj;Par;ei;obj;"""Ja väga rõõmustav oli kuulda, et lordkantsler tunneb suurt huvi Eesti vastu, ka avaldas ta soovi Eestimaad külastada.""";12;10
+koos_töö:Par tegema;aja_ml200247_31;teevad koostööd;obj;Par;ei;obj;""" Nad on piiritööks parimad, "" selgitab Neeme kooli õppejaoskonna ülem Jüri Pajusoo, "" sest teevad meeleldi inimestega koostööd ja on heade tööomadustega.";21;18
+töö:Par tegema;aja_ml200247_338;teeb tööd;obj;Par;ei;obj;Ka professor Lembit Nei kiidab tutor'ite süsteemi, kus juhendaja teeb ühe-kahe tudengiga väga intensiivselt tööd otsekui eraõpetaja.;16;11
+töö:Par tegema;aja_ml200247_340;teha tööd;obj;Par;ei;obj;""" Siin on kõik üles ehitatud selle peale, et tuleb teha hästi palju ja intensiivselt tööd.";17;12
+ette_panek:obj tegema;aja_ml200247_343;ettepaneku tegi;obj;Gen;ei;obj;"""No ma ei tea,"" keeldus proua suursaadik kommenteerimast, kui just sellekohase ettepaneku tegi St Johni kolledži president Michael Scholar Eesti presidendile.";16;17
+töö:Par tegema;aja_ml200247_444;tööd teinud;obj;Par;ei;obj;"""Olen oma tööd teinud piisavalt hästi ja kulutanud palju energiat tehnoloogia ülesehitamiseks, seepärast oli kandideerimisotsus minu jaoks väga raske,"" ütles Karis.";4;5
+töö:Par tegema;aja_ml200247_506;teinud töö;obj;Gen;ei;obj;Ei saa eitada aga fakti, et aastad on teinud oma töö.;12;10
+võitlus:Par pidama;aja_ml200247_539;pidada võitlust;obj;Par;ei;obj;Kas tuli pidada suurt võitlust, et sõjaeelset saatkonna hoonet kätte saada?;5;3
+abi:Par andma;aja_ml200247_588;abi anda;obj;Par;ei;obj;On vaja olla usaldusväärne partner, kui vaja, abi anda.;10;11
+koos_töö:Par tegema;aja_ml200247_656;teevad koostööd;obj;Nom;ei;obj;Osutatakse Baieri firmadele, kes teevad koostööd Tšehhiga või jälle Poola ja Mecklenburg-Vorpommerni vahelistele ärisidemetele.;7;6
+algus:Par tegema;aja_ml200247_7;algus tehti;obj;Nom;jah;obj;Uus algus tehti pärast pikka pausi 1992. a Kuressaare õppekeskuses, kus suurt nõu ja abi osutasid Venemaa piirivalvekooli esindajad.;2;3
+abi:Par osutama;aja_ml200247_7;abi osutasid;conj;Par;ei;conj->obj;Uus algus tehti pärast pikka pausi 1992. a Kuressaare õppekeskuses, kus suurt nõu ja abi osutasid Venemaa piirivalvekooli esindajad.;16;17
+ette_panek:obj tegema;aja_ml200247_784;Tegime ettepaneku;obj;Gen;ei;obj;"Tegime juba siis ministeeriumile ettepaneku, et riik maksaks 30 sendi ulatuses piimahinna tootjale kinni, "" räägib Murakas.";5;1
+ette_panek:obj tegema;aja_ml200247_793;teeb ettepaneku;obj;Gen;ei;obj;Peaminister Siim Kallas kinnitab Äripäevale, et kui põllumajandusminister teeb analüüsi tulemustel ettepaneku alustada piima riiklikku kokkuostu või toetada konkreetseid ettevõtteid, siis peaministri toetust need ettepanekud ei saa.;13;10
+töö:Par tegema;aja_ml200247_830;tööd tegi;obj;Par;ei;obj;"""Kuidas erametsaliit töögruppides tööd tegi, teab liit ise paremini,"" kõlab keskkonnaministeeriumi esindaja Etverki vastus.";5;6
+asi:Par ajama;aja_ml200247_839;asju ajama;obj;Par;ei;obj;"""Selliseid asju peaks ajama südamega,"" ütleb Mihkelson.";3;5
+võimalus:obj andma;aja_ml200247_854;annab võimalused;obj;Nom;ei;obj;Seadus annab omavalitsusliitudele suuremad võimalused kaasa rääkida ELi struktuurifondide raha jagamisel.;5;2
+korraldus:obj tegema;aja_ml200247_910;tegi korralduse;obj;Gen;ei;obj;Juba eelmisel sügisel tegi Urvaste vallavalitsus esimese korralduse, mida pikendas tänavu mais veel kuni 1. juulini.;8;4
+asi:Par ajama;aja_ml200247_912;asjad ajada;obj;Nom;ei;obj;"""Ees olid valimised, ehk lootis ta, et uue volikoguga on võimalik asjad korda ajada.""";15;17
+luba:obj andma;aja_ml200247_913;andis loa;obj;Gen;ei;obj;Paar aastat kohtus jaurata on lubanud ajakirjandusele ka vandeadvokaat Viktor Kaasik, kellele Harjumaa Jõelähtme vallavalitsus andis ebaseaduslikult loa ehitada merele lähemale kui 100 meetrit ning hiljem peatas selle.;19;17
+mure:Par tegema;aja_ml200247_986;teeb muret;obj;Par;ei;obj;Vallavanem Lembit Sikk, kellele teeb muret, et valitsus ja parteid on riputanud vallad rahaliselt oma lõa otsa, tunnetab suuremat vastuolu siiski vaimsel tasandil.;7;6
+arvestus:Par pidama;aja_pm19980926_129;peetakse arvestust;obj;Par;jah;obj;Loomulikult peetakse arvestust ka asjade osas, mida õhku loobitakse.;3;2
+huvi:Par tundma;aja_pm19980926_149;huvi tundma;obj;Par;ei;obj;Orientaalse huvi levikuga maailmas hakatakse zhongleerimise vastu elavamalt huvi tundma nii Vana kui Uue Maailma teatrites.;9;10
+ette_valmistus:obj tegema;aja_pm19980926_15;ettevalmistust tegema;obj;Par;ei;obj;Ei peagi selleks ju teab mis pikka ettevalmistust tegema.;8;9
+töö:Par tegema;aja_pm19980926_183;tööd teha;obj;Par;ei;obj;Mida rohkem antakse värviga märgitud tundele omadusi, seda kergem on selle tundega tööd teha.;14;15
+töö:Par tegema;aja_pm19980926_189;tööd teha;obj;Par;ei;obj;Kes ei taha, ei pea üldse rääkima, aga teraapiaprotsessis osaledes on ikkagi võimalik oma probleemidega tööd teha.;18;19
+nõu:Par pidama;aja_pm19980926_245;nõu pidada;obj;Par;ei;obj;Need probleemid tuleb enne sirmiraami tellimist selgeks mõelda ja meistriga või disaineriga nõu pidada.;13;14
+info:obj andma;aja_pm19980926_273;infot annab;obj;Par;ei;obj;Privaatsuse hoidmiseks valib inimene, millist infot, kui palju ja kellele ta välja annab.;7;15
+plaan:obj pidama;aja_pm19980926_322;plaani pidades;obj;Par;ei;obj;Ligi kolme kuu vanused krokodillipojad vaatavad võõrast kavala ilmega, nagu plaani pidades, keda suureks kasvades (kuni 10 meetrit) oma 60 nõelterava hambaga esimesena nahka pista.;12;13
+hääl:Par tegema;aja_pm19980926_331;teeb häält;obj;Par;ei;obj;Emase meelitamiseks ja oma territooriumist teatades teeb elukas konna krooksumise ja käo kukkumise vahepealset häält.;15;7
+huvi:Par tundma;aja_pm19980926_401;tundis huvi;obj;Par;ei;obj;“ Kuidas sul siis sedapuhku Sussexis läks? ” tundis Watson tule kohal käsi kuivatades huvi.;16;10
+garantii:obj andma;aja_pm19980926_44;garantiid anna;obj;Par;ei;obj;Sajaprotsendilist garantiid see ei anna, kuid kindlama enesetunde loob ikka.;2;5
+märkus:obj tegema;aja_pm19980926_477;teha märkuse;obj;Gen;ei;obj;Samas võib seesama mulla teha avalikkuse ees mõnele naisterahvale märkuse, kui tal väike juuksetukk rätiku alt välja kipub.;10;5
+huvi:Par tundma;aja_pm19980926_494;tunti huvi;obj;Par;jah;obj;Minu puhul tunti ikka ja jälle huvi kreemitopsiku vastu, mida ma mantlitaskus kandsin: seda võeti lahti ja uuriti.;7;3
+seletus:obj andma;aja_pm19980926_502;seletusi andma;obj;Par;ei;obj;Inglise keele oskajaid leidub vaid linnades ja needki on kehva tasemega, ent rahvas on igal pool sõbralik ning valmis pärsia keeles pikalt-laialt võõramaalasele seletusi andma.;25;26
+ette_heide:Par tegema;aja_pm19980926_507;etteheiteid tegi;obj;Par;ei;obj;Kuid inglanna, kellele üks kohalik noormees ähvardava näoga etteheiteid tegi, sest paistis natuke juuksetukka rätiku alt, tundis end kaitsetuna.;10;11
+uhkus:Par tundma;aja_pm19980926_6;Tundke uhkust;obj;Par;ei;obj;Tundke uhkust iseenda üle, saage lahti hirmudest ja ühtlasi koguge ports energiat.;2;1
+nauding:Par tundma;aja_pm19980926_760;tunneb naudingut;obj;Par;ei;obj;Õpilastele samme valides mängleb Jansu iga päev tundide kaupa peegli ees ning tunneb silmnähtavat naudingut igast oma liigutusest.;15;13
+hääl:Par tegema;aja_pm19980926_79;Häält tegema;obj;Par;ei;obj;“ “ Maailma Häält ” sai kunagi lihtsalt tegema hakatud, nüüd jätkan kohusetundest.;4;9
+mure:Par tundma;aja_pm19980926_794;tunnevad muret;obj;Par;ei;obj;Ikka ja jälle helistavad kolmekümnesed naised ning tunnevad muret, kas neil sobiks tantsima tulla.;9;8
+algus:Par tegema;aja_pm19980926_828;algust tehtud;obj;Par;jah;obj;Kui aga massaazhiga algust tehtud, ei saa unarusse jätta võrkturustustooteid: pesuvahendeid, parfüüme, toidulisasid ja vitamiine.;4;5
+valik:obj tegema;aja_pm20000218_1012;teevad valiku;obj;Gen;ei;obj;Worldwatchi instituudi direktor Lester Brown manitseb Eestit keskkonna säästmiseks hoolega kaaluma poliitilisi otsuseid, mis teevad siia tulevate Lääne investeeringute seast valiku.;22;16
+järeldus:obj tegema;aja_pm20000218_1015;teha järeldused;obj;Nom;ei;obj;Meie idee on selline, et paneme faktid ritta ja laseme lugejatel teha oma järeldused.;15;13
+otsus:obj vastu võtma;aja_pm20000218_1078;võtta vastu otsuseid;obj | compound:prt;Par | ;ei;obj;Väiksed riigid on tavaliselt poliitiliselt mobiilsemad, nad võivad võtta vastu poliitilisi otsuseid lühema hoiatusajaga.;13;10
+töö:Par tegema;aja_pm20000218_109;teinud tööd;obj;Par;ei;obj;“ Aga ta ei teinud müüja tööd, vaid oli tulnud vaatama, kas see töö talle sobiks. ”;7;5
+huvi:Par tundma;aja_pm20000218_1168;tuntakse huvi;obj;Par;jah;obj;“ Enim tuntakse huvi sisseastumiseksamite ja konkursside vastu, ” lausus tudeng.;4;3
+jutt:Par ajama;aja_pm20000218_118;juttu ajada;obj;Par;ei;obj;Kommenteerides Oleg Bulkini väidet, et ta ei pööranud tähelepanu kastides kaasas olnud brändisiltidele, vastas Stokkeby, et nii kogenud ärimees ei saa sellist juttu ajada.;26;27
+eel_töö:Par tegema;aja_pm20000218_1186;Eeltööd tegi;obj;Par;ei;obj;Eeltööd labori leidmiseks tegi narkogrupp pool aastat.;1;4
+peatus:Gen tegema;aja_pm20000218_1190;peatuse teinud;obj;Gen;ei;obj;Hunt oli koera talu lähedale metsa lohistanud, vahepeal peatuse teinud ja teda rappinud. ”;10;11
+otsus:obj tegema;aja_pm20000218_1218;teha otsuseid;obj;Par;ei;obj;“ Ühel ja samal kohtul on vaatamata eri kohtunikele raske teha järjestikku erinevaid otsuseid, ” ütles Rattus.;14;11
+huvi:Par tundma;aja_pm20000218_1303;tunnevad huvi;obj;Par;ei;obj;Tutvustasid end metsandustudengitena, kes tunnevad huvi puude kasvu vastu.;7;6
+koos_töö:Par tegema;aja_pm20000218_1411;koostööd teha;obj;Par;ei;obj;Vene immigrantidest abielupaar tunnistas end eile süüdi reas föderaalkuritegudes, mille eest võib neid karistada kuni 10-aastase vabadusekaotusega ja suurte trahvidega, ning lubas uurijatega edaspidi koostööd teha, lootuses, et kõrgemaid karistusmäärasid nende suhtes siiski ei rakendata.;27;28
+alt_käe_maks:obj andma;aja_pm20000218_1418;andis altkäemakse;obj;Par;ei;obj;Kohtule esitatud dokumentides märgitakse, et Edwards andis rahapesumasina töökindluse tagamiseks “ altkäemakse Bank of New Yorki Ida-Euroopa osakonna töötajatele ”.;13;8
+põhjus:Par andma;aja_pm20000218_1437;andis põhjust;obj;Par;ei;obj;Vaid nädal tagasi andis Läti Moskvale põhjust protestida selle üle, et Riias mõisteti kurjategijana süüdi Teise maailmasõja aegne Nõukogude partisan.;7;4
+käsk:obj andma;aja_pm20000218_1479;anti käsku;obj;Par;jah;obj;Järgnevalt anti Marsile kiiresti mitu käsku, lootuses, et kosmosesõiduk - kui see oli signaali allikas - annaks signaale edasi samal lainepikkusel, kuid Stanfordi antenn ei avastanud midagi.;6;2
+signaal:Par andma;aja_pm20000218_1479;annaks signaale;obj;Par;ei;obj;Järgnevalt anti Marsile kiiresti mitu käsku, lootuses, et kosmosesõiduk - kui see oli signaali allikas - annaks signaale edasi samal lainepikkusel, kuid Stanfordi antenn ei avastanud midagi.;20;19
+võimalus:obj andma;aja_pm20000218_1490;andis võimaluse;obj;Gen;ei;obj;"Mõnes punktis pakkusid kaamerad vaadata mitme auto möödumist; see andis vaatajale võimaluse võistlejaid võrrelda, samas ei olnud need lõigud tüütavalt pikad.";13;11
+töö:Par tegema;aja_pm20000218_170;tööd teha;obj;Par;ei;obj;Pakume sisukat ajaviidet ja ka võimalust tööd teha.;7;8
+töö:Par tegema;aja_pm20000218_172;töid tegema;obj;Par;ei;obj;Hoolduse eesmärk ongi see, et inimene oleks mõne aja pärast võimeline iseseisvalt elama ja lihtsamaid töid tegema.;17;18
+võimalus:obj andma;aja_pm20000218_19;annavad võimaluse;obj;Gen;ei;obj;“ Kohalikud tootjad annavad meile võimaluse katta energia puudujääk tipptundidel, ” põhjendas Saar.;6;4
+ette_valmistus:obj tegema;aja_pm20000218_240;ettevalmistused tehtud;obj;Nom;jah;obj;Remondi jätkamiseks on ettevalmistused tehtud, linnal pole aga praegu raha.;4;5
+kahju:Par tegema;aja_pm20000218_333;tegi kahju;obj;Par;ei;obj;Autorüüstaja tegi suurt kahju;4;2
+katse:Par tegema;aja_pm20000218_379;teeb katse;obj;Gen;ei;obj;Kui mõni mängija teeb nõrga katse öelda “ p ” nagu Peeter või “ t ” nagu Tõnu, haarab mängujuht kohe sõnasabast kinni ja kordab üle: põhh, tõhh, kõhh.;6;4
+koos_töö:Par tegema;aja_pm20000218_450;teinud koostööd;obj;Par;ei;obj;Oleme teinud Soome politseiga narkovõitluses tõsist ja head koostööd ning ma loodan, et see jätkub ka tulevikus.;9;2
+võimalus:obj andma;aja_pm20000218_542;annaks võimaluse;obj;Gen;ei;obj;Tüliõunaks saanud seaduseelnõu annaks 1941. aastal Eestist Nõukogude Liidu ja Hitleri Saksamaa kokkuleppe järgi ümber asunud baltisakslastele võimaluse oma siia jäänud vara tagasi taotleda, varem oli neid erandlikult grupina tagasisaajate seast välja arvatud.;18;4
+viga:obj tegema;aja_pm20000218_561;teinud vea;obj;Gen;ei;obj;Manilovi alluvad on aga teinud aadressi üles märkides vea, kirjutades sõna “ utiliidid ” ühe i-ga, ning Russkii Deadline ei suutnud seetõttu sellist aadressi leida.;9;5
+põhjus:Par andma;aja_pm20000218_562;andis põhjuse;obj;Gen;ei;obj;See andis infokeskusele põhjuse Manilovi ametkonna tööd kritiseerida: “ Eesti keelt me küll ei oska, kuid vaadates 3. veebruaril avaldatud pilti, on raske uskuda, et Tshetsheenia mägedes suusatavad kenad neiud kirevates kostüümides ja suurte rinnanumbritega. ”;4;2
+valik:obj tegema;aja_pm20000218_575;valik tehtud;obj;Nom;jah;obj;Eesti noored peavad õppimisvõimalusi tutvustava messi külastamist lausa kohustuslikuks, seda ka siis, kui õppeasutuse valik juba tehtud.;17;19
+võimalus:obj andma;aja_pm20000218_647;annaks võimaluse;obj;Gen;ei;obj;Või maju veel kaugemast minevikust, mille taastamine kunsti- ja turismiobjektideks annaks võimaluse luua unikaalne muuseumiring, millist pole teistes Euroopa riikides ning mille loomisel saaksime naabritelegi tuletorniks olla.;13;12
+panus:obj tegema;aja_pm20000218_676;panust teha;obj;Par;ei;obj;Väikeses ja demokraatlikus riigis ei tohiks liialt suurt panust teha esindusfunktsioonidele, pigem peaksime hoolitsema oma rahvuslike vaimulätete eest, mis saavad toitu väljastpoolt kosmopoliitset pealinna.;9;10
+lubadus:obj andma;aja_pm20000218_73;anna lubadust;obj;Par;ei;obj;Ta pidas tõenäoliseks, et ka järgmise viie aasta lepingu saab Liikor, sest riigihanke konkursi tingimused on küllalt karmid: linn ei anna lubadust suurendada dotatsiooni, kuid nõuab liinide käigushoidmist senises mahus.;25;24
+koos_töö:Par tegema;aja_pm20000218_748;teinud koostööd;obj;Nom;ei;obj;"1986. aastal kutsus Pierre Boulez ta ansambli InterContemporain solistiks; 1992. aastast on ta Berliini Filharmoonikute koosseisuline solist; ta on teinud koostööd Luciano Berioga, Edison Denissovi ja Karlheinz Stockhauseniga, mitmete nimekate orkestritega.";23;22
+vastus:Par andma;aja_pm20000218_869;vastust anna;obj;Par;ei;obj;Kuivõrd peaks telefon vastu veelompi potsatades või näiteks rannas kalda ääres korraks vee alla vajudes, Ericsson vastust ei anna.;18;20
+korraldus:obj andma;aja_pm20000218_913;andis korralduse;obj;Gen;ei;obj;Kui San Antonio meeskonna peatreener Gregg Popovich viis kuud pärast operatsiooni Elliotti NBA meistritiitli kaitsjatega üks ühe vastu mängimas nägi, andis ta korralduse Elliott platsi äärde kutsuda.;24;22
+takistus:Par tegema;aja_pm20000218_914;Teen takistusi;obj;Par;ei;obj;“ Teen talle mängu naasmisel kõikvõimalikke takistusi, ” ütles Popovich.;7;2
+võimalus:obj andma;aja_pm20000218_921;antakse võimalus;obj;Nom;jah;obj;“ Ent kui mulle antakse võimalus ja ma tunnen end kehaliselt hästi, tahan taas mängida. ”;6;5
+töö:Par tegema;aja_pm20001004_1020;tööd teinud;obj;Par;ei;obj;Ta leiab, et stsenaristid on oma tööd hästi teinud ning keerulise geeniuse mängimine osutus tänu sellele oodatust lihtsamaks.;8;10
+töö:Par tegema;aja_pm20001004_1033;töö tehtud;obj;Nom;jah;obj;Kahju, et Tampere-aeg otsas, kergendus, et töö saab tehtud.;10;12
+amet:Par pidama;aja_pm20001004_1076;ametit pidama;obj;Par;ei;obj;"""Kui see häiriks, peaksin teist ametit pidama,"" muigab ta.";8;9
+nali:Par tegema;aja_pm20001004_1089;teeb nalja;obj;Par;ei;obj;Oma näopildiga T-särk teeb Uuspõllule nalja.;6;4
+nõu:Par pidama;aja_pm20001004_1116;nõu pidanud;obj;Par;ei;obj;Nõukogu liikmed on kinniste uste taga nõu pidanud juba kaks päeva, kuid vähemalt teisipäeva pärastlõunaks ei suudetud kokku leppida, kui karmisõnaliselt tuleks Iisrael hukka mõista.;7;8
+all_kiri:obj andma;aja_pm20001004_1121;allkirja andnud;obj;Gen;ei;obj;"""Läbirääkimised (selle lepingu üle) on tõestanud India ja Venemaa pikaajaliste rahvuslike ja geopoliitiliste huvide kokkulangevust,"" ütles Putin pressikonverentsil pärast seda, kui oli koos India peaministri Atal Behari Vajpayeega dokumendile allkirja andnud.";36;37
+pidu:Par pidama;aja_pm20001004_1166;peame pidu;obj;Par;ei;obj;"President Rau toonitas: ""Täna peame pidu selle nimel, et Saksamaad ei lõhestaks enam ükski piir, mille lähedus põhjustaks inimjahti.""";8;7
+kõne:obj pidama;aja_pm20001004_1173;pidas kõne;obj;Gen;ei;obj;"""Milosevic pidas ähvardava, väga närvilise ja ebastabiilse kõne,"" ütles Djindjic.";10;3
+ette_panek:obj tegema;aja_pm20001004_1192;ettepaneku tegi;obj;Gen;ei;obj;Samalaadse ettepaneku tegi Vene võimudele ka Jugoslaavia endine peaminister Milan Panic.;2;3
+karjäär:Par tegema;aja_pm20001004_1232;teha karjääri;obj;Par;ei;obj;Susan Sarandon on suutnud teha karjääri Hollywoodi tavasid eirates.;6;5
+uuring:Par tegema;aja_pm20001004_174;teha uuringuid;obj;Par;ei;obj;Nakatunu vereproov läheb Tallinnasse Merimetsa haigla kontroll-laborisse, kus saab teha eriti täpseid uuringuid.;14;11
+asi:Par ajama;aja_pm20001004_360;ajada asju;obj;Par;ei;obj;On suur vahe, kas minna leiba ostma kohalikku külapoodi ja ajada asju kohalikus vallamajas või sõita maakonnakeskusesse.;13;12
+analüüs:obj tegema;aja_pm20001004_436;teha analüüs;obj;Nom;ei;obj;Andkem uurijatele aega teha sügavam analüüs ja näidata küsimuste komplekssema analüüsi alusel seda küsitletute osa, kelle puhul on tegemist hoiakuga.;6;4
+asi:Par ajama;aja_pm20001004_545;asja ajada;obj;Gen;ei;obj;Siseminister Tarmo Loodus on selles lapseskandaalis käitunud nagu hübriid peata kanast ja argpükslikust parteisõdurist, kes lubab suure suuga asja korda ajada, udutab nii lapse vanematele saadetud kirjas kui ka Riigikogus esinedes, ja ei tee tegelikult midagi, sest kodakondsusseadus on risti tee peal ees.;20;22
+korraldus:obj andma;aja_pm20001004_546;andis korralduse;obj;Gen;ei;obj;Loodus andis küll väidetavalt kodakondsusameti juhile korralduse lapse passiasi kohe ära korraldada, kuid kodakondsusameti teatel neil sellist korraldust pole.;7;2
+läbi_rääkimine:Par pidama;aja_pm20001004_652;peetakse läbirääkimisi;obj;Par;jah;obj;Praegu peetakse läbirääkimisi erinevate asjasse puutuvate ministeeriumidega, leidmaks selleks vajalikku raha.;3;2
+leping:obj tegema;aja_pm20001004_665;teha lepingu;obj;Gen;ei;obj;Kuusmanni hinnangul võisid pooled teha uue lepingu suuremale summale niipea, kui tekkis kära, et esialgne tehingusumma on väga väike.;7;5
+otsus:obj tegema;aja_pm20001004_692;teeb otsused;obj;Nom;ei;obj;Hänni sõnul jälgib valitsus tähelepanelikult EVP hinnarallit ja teeb vastavalt sellele oma järgmised EVPsid puudutavad otsused.;16;9
+käsk:obj andma;aja_pm20001004_720;käsud anti;obj;Nom;jah;obj;""" Mänguaega sain 5-10 minutit, kõik käsud anti täpselt kätte.";8;9
+vile:Par laskma;aja_pm20001004_737;lasi vilet;obj;Par;ei;obj;Hoobist toibudes lasi mõni vilet, lõpuks tunnistasid aga kõik hollandlase üleolekut ja hindasid tema väärtust.;5;3
+remont:Par tegema;aja_pm20001004_819;teinud remondi;obj;Gen;ei;obj;"""Ta on teinud tõsise remondi Suislepa ja Kärstna koolis, avas ühes lasteaias uue algkooli ning maksab õpilastele kaks korda aastas rahalisi preemiaid,"" loetles ta.";6;4
+koos_töö:Par tegema;aja_pm20001004_831;teeme koostööd;obj;Nom;ei;obj;"""Me ei vandunud teineteisele, et teeme koostööd Tallinna opositsioonis, ja mingit kokkulepet ei saavutanud,"" mainis ta.";9;8
+analüüs:obj tegema;aja_pm20001004_841;teha analüüs;obj;Nom;ei;obj;Eile saatis Voog linnavalitsusele ettepaneku teha juriidiline analüüs AS Tallinna Soojuse vallandatud juhatuse esimehe, Tallinna volikogu liikme Elmar Sepa 0,5 miljoni kroonise lahkumishüvitise maksmise õiguspärasuse kohta.;8;6
+otsus:obj tegema;aja_pm20001004_844;tegi otsuse;obj;Gen;ei;obj;Valitsus tegi eile poliitilise otsuse ehitada kunstimuuseumi uus hoone Kadriorgu hoolimata sellest, et nii jäävad sobilikust asupaigast ilma sõjaväeluurajad ja Tallinna linnavõim pooldas muuseumimaja hoopis kesklinna.;5;2
+asi:Par ajama;aja_pm20001004_920;asju ajama;obj;Par;ei;obj;Tudengist Täht tuli laupäeva hommikul Tallinna asju ajama ning pidi esialgsete plaanide järgi keskpäeva paiku Tartus tagasi olema.;7;8
+süst:obj tegema;aja_pm20001004_932;süst teha;obj;Nom;ei;obj;Insuliini otsimise peale kulus 10 minutit ning seejärel lasti noormehel ise endale süst ära teha.;13;15
+süst:obj tegema;aja_pm20001004_940;süsti teha;obj;Par;ei;obj;Iga meedik võtab endale tehtud süsti eest vastutuse ja on täiesti selge, et iga tänavalttulnu väite peale ei saa meedik talle süsti teha.;23;24
+ette_panek:obj tegema;aja_pm20001004_956;teeb ettepaneku;obj;Gen;ei;obj;Pärnu linnavolikogu Reformierakonna fraktsioon teeb võimuliidukaaslasele Isamaaliidule ettepaneku anda haridust ja kultuuri juhtiva abilinnapea koht Reformierakonnale, ütles Reformierakonna Pärnu piirkonna esimees Väino Linde.;8;5
+ette_panek:obj tegema;aja_pm20001004_957;teeb ettepaneku;obj;Gen;ei;obj;Linde rääkis, et üleeile õhtul koos istunud Reformierakonna fraktsioon avaldas rahulolematust abilinnapea Sulev Alajõe haridus- ja kultuuripoliitikaga Pärnus ning teeb Isamaaliidule ettepaneku koalitsioonileping üle vaadata.;23;21
+teave:Par andma;aja_sloleht20071217_1013;andes teavet;obj;Par;ei;obj;Selle tegevus toimub Londonis ning on märksa mitmekülgsem, lõbusam ja haaravam, andes samas kasulikku teavet Shakespeare'i ja tema loomingu kohta.;17;14
+katse:Par tegema;aja_sloleht20071217_1018;katseid teha;obj;Par;ei;obj;Lisaks saab virtuaalmaailma asukatega soovi korral riskantseid katseid teha.;8;9
+kaotus:Par saama;aja_sloleht20071217_121;said kaotust;obj;Par;ei;obj;Naiste Balti liigas said Eesti klubid eile kaks nappi kaotust;10;4
+harjutus:Par tegema;aja_sloleht20071217_153;Tee harjutusi;obj;Par;ei;obj;Tee kõhulihaste harjutusi alati aeglases tempos, vastasel korral ei tööta kõhu rist- ja põikilihased, vaid neist võimsam sirglihas.;3;1
+kahju:Par tegema;aja_sloleht20071217_155;kahju teha;obj;Par;ei;obj;Kühmus seljaga aeroobikaharjutusi tehes langeb koormus lülisambale ja jalaliigestele ebaühtlaselt, kasu asemel võid tervisele hoopis kahju teha.;17;18
+viga:obj tegema;aja_sloleht20071217_295;tegin vea;obj;Gen;ei;obj;Aga tegelikult tegin ma juba stardis taktikalise vea.;8;3
+korrektiiv:Par tegema;aja_sloleht20071217_299;tegema korrektiive;obj;Par;ei;obj;Analüüs, miks hooaja algus kesine oli, sundis tegema treeningutes korrektiive.;12;10
+harjutus:Par tegema;aja_sloleht20071217_362;harjutusi teha;obj;Par;ei;obj;Kui tunned, et jõudu ja energiat jätkub, võid harjutusi teha ka pärast kõndimist.;11;12
+intervjuu:obj andma;aja_sloleht20071217_431;intervjuud andma;obj;Par;ei;obj;Ent publik toetas, inimesed hakkasid miilitsat lausa sõimama - näete, sportlane võitis kulla, ta läheb intervjuud andma - pääseti läbi.;19;20
+tunnistus:Par andma;aja_sloleht20071217_45;andis tunnistusi;obj;Par;ei;obj;Kohtus andis tunnistusi modell Kelly Fisher, kes oli Dodi kallim 1997. aastal.;3;2
+kaotus:Par saama;aja_sloleht20071217_587;sai kaotuse;obj;Gen;ei;obj;Ragnar Klavani koduklubi Almelo Heracles sai Hollandi meistriliigas jälle kaotuse, kui jäi 0:3 alla FC Utrechtile.;10;6
+korrektiiv:Par tegema;aja_sloleht20071217_623;tegi korrektiive;obj;Par;ei;obj;Matic keeldus siiski tunnistamast, et tegi pärast teisipäevast kohtumist koosseisus teadlikult korrektiive.;13;7
+viga:obj tegema;aja_sloleht20071217_661;teinud viga;obj;Par;ei;obj;"100 meetris võinuks isiklik tulla nii-öelda töö käigus - liiati ei teinud ma ühtki tõsist viga, mis sprinditulemust otseti mõjutanuks.""";16;12
+harjutus:Par tegema;aja_sloleht20071217_715;teha harjutusi;obj;Par;ei;obj;Mardna nentis, et seljast lööb valu mujale, tuleb seljale teha vastavaid harjutusi.;14;12
+harjutus:Par tegema;aja_sloleht20071217_720;harjutusi teha;obj;Par;ei;obj;Peaaegu kõiki harjutusi on võimalik teha kahtmoodi: kas kergema või rohkem koormava variandina.;3;6
+harjutus:Par tegema;aja_sloleht20071217_730;harjutust tehes;obj;Par;ei;obj;Näiteks harjutust istesse tõus tehes hinga välja, kui keha algasendist põlvede juurde tõstad, ning sisse, kui tagasi selili laskud.;2;5
+kokku_võte:obj tegema;aja_sloleht20071217_876;teevad kokkuvõtteid;obj;Par;ei;obj;"Sarisaated teevad aastast kokkuvõtteid,"" sõnab ETV peatoimetaja Heidi Pruuli.";4;2
+vigur:Par tegema;aja_sloleht20071217_896;tehakse vigurit;obj;Par;jah;obj;"""See õhtu näeb välja niimoodi, et kell 19 on nagu ikka ""Reporteri"" aastalõpu erisaade, kus lisaks päevakajalistele uudistele tehakse kindlasti ka vigurit ja püütakse vaatajat üllatada,"" kirjeldab Mirme.";27;24
+nõu:Par pidama;aja_sloleht20071217_948;nõu pidada;obj;Par;ei;obj;Kiirreageerimisüksusesse oma kontingendi saatmine eeldab riigikogu mandaati nagu ikka, kuid eelnõu kohaselt pole valitsusel konkreetsesse kriisi sekkumisel tarvis enam Eestis kellegagi nõu pidada.;23;24
+ette_valmistus:obj tegema;aja_sloleht20071217_962;teha ettevalmistusi;obj;Par;ei;obj;Ent kõigest hoolimata on riigikogu siiski võimeline otsuse tegemiseks ruttu kogunema, ja sellal saavad kaitseväelased teha juba vajalikke ettevalmistusi kriisipiirkonda minekuks, ministril aga on pädev mandaat minna Euroopa Liidu tasemel otsust langetama.;20;17
+algus:Par tegema;aja_sloleht20071217_972;algus tehtud;obj;Nom;jah;obj;Aga vähemalt algus on tehtud.;3;5
+otsus:obj vastu võtma;aja_sloleht20071217_977;võttis vastu otsuse;obj | compound:prt;Gen | ;ei;obj;Läti parlament võttis vastu otsuse, mille järgi võib seal devalveerimispaanikat külvanud inimesed vangi panna.;5;3
+võimalus:obj andma;aja_sloleht20071217_999;annavad võimaluse;obj;Gen;ei;obj;Maailmakuulsa literaadi näidendite järgi loodud arvutimängud annavad igaühele sama võimaluse elutoast lahkumata.;10;7
+ette_valmistus:obj tegema;arborest-test_4;tegid ettevalmistusi;obj;Par;ei;obj;Kaks meisterkonspiraatorit tegid ettevalmistusi pimedas ja teki all, sest Arnold ei tohtinud midagi aimata.;4;3
+koos_töö:Par tegema;arborest_121;koostööd tegema;obj;Par;ei;obj;Asi lõppes eitava otsusega ja nõnda on Eesti Telefon valmis kõigi kaabeldajatega koostööd tegema.;13;14
+suits:Par tegema;arborest_19;teeb suitsu;obj;Gen;ei;obj;Arnold teeb õhtul ühe suitsu, Lennartil läheb punast Marlborot sigaret sigareti järel.;5;2
+side:Par pidama;arborest_34;sidet pidasid;obj;Par;ei;obj;Rüütel ja Lippmaa, kes ka Ameerikaga sidet pidasid, jäid koju käsi laiutades rääkima Ida-Virumaa raskest olukorrast.;8;9
+korraldus:obj andma;arborest_35;annab korralduse;obj;Gen;ei;obj;Muide, viis kuud hiljem George Bushi juurde visiiti kavandades mängis Lennart Arnoldile ninanipsu sellega, et ülemnõukogu presiidiumi esimees ei teadnud täpset päeva, millal välisminister annab talle korralduse lennukisse astuda.;30;28
+võimalus:obj andma;arborest_57;annab võimaluse;obj;Gen;ei;obj;Keskerakonna jaoks mäng alles algab ning presidendivalimiste minek valimiskogu kätte annab selleks suurepärase võimaluse.;14;11
+panus:obj tegema;arborest_60;teeb panuse;obj;Gen;ei;obj;Kõige tõenäolisem on, et Savisaar asub kas otsima kolmandat kandidaati või teeb panuse Rüütlile.;14;13
+intervjuu:obj andma;arborest_78;intervjuud annab;obj;Par;ei;obj;Osalemine nii Eesti Telefonis kui ka kaabeltelevisioonifirmas võtab riigilt võimaluse täita Euroopa Liidu nõudmised konkurentsi loomisel telekommunikatsiooni valdkonnas, omandab Palts prohveti ilme, kui ta esmaspäeva hilisõhtul intervjuud annab.;29;30
+nõu:Par pidama;arborest_930;nõu pidama;obj;Par;ei;obj;Peeter ruttas büroost lasteaeda nõu pidama.;5;6
+investeering:Par tegema;arborest_98;Investeering tehti;obj;Nom;jah;obj;Investeering kaabeltelefirmasse Starman tehti Eesti sideministeeriumi informeerimata.;1;4
+kõne:obj pidama;arborest_99;pidas kõne;obj;Gen;ei;obj;Selle asemel pidas Teliat ülistava kõne oma Rootsi-meelsuses tuntud riigitöötaja Eesti Telekomi peadirektor Toomas Sõmera.;6;3
+suits:Par tegema;ilu_indrikson_164;tegi suitsu;obj;Par;ei;obj;Indrikson seisis avatud rõduuksel, tegi suitsu ja vaatas lahele.;7;6
+asi:Par ajama;ilu_indrikson_199;asi aetud;obj;Nom;jah;obj;Kella kaheks peab asi aetud olema!;4;5
+katse:Par tegema;ilu_indrikson_249;teen katse;obj;Gen;ei;obj;"""Ma tean, et korraldan sulle hirmsa käki, aga ma teen siiski ühe abitu katse.";17;13
+huvi:Par tundma;ilu_kanep_1046;tundis huvi;obj;Par;ei;obj;"""Blokid või?"" tundis tütarlaps huvi.";8;6
+signaal:Par andma;ilu_kanep_1136;andsid signaali;obj;Gen;ei;obj;Siis andsid organid signaali.;4;2
+peatus:Gen tegema;ilu_kanep_399;teeme peatuse;obj;Gen;ei;obj;Esimeses bensiinijaamas teeme peatuse.;4;3
+mure:Par tundma;ilu_kanep_653;Tunnen muret;obj;Par;ei;obj;Tunnen muret.;2;1
+plaan:obj tegema;ilu_kanep_8;plaane tegema;obj;Par;ei;obj;Nõnda ei hakka ma erilisi plaane tegema.;6;7
+asi:Par ajama;ilu_kanep_917;Asja aeti;obj;Par;jah;obj;Asja aeti ja asjaosalised rõõmustasid, kuid mõne nädala pärast ilmnes, et seisame teeristil.;1;2
+töö:Par tegema;ilu_kivirahk_120;teevad töö;obj;Gen;ei;obj;"Aga eks aastad teevad oma töö.""";6;4
+jutt:Par ajama;ilu_kivirahk_213;juttu ajad;obj;Par;ei;obj;"""Taadike, no mis juttu sa ajad!"" laiutas Petrov käsi ja tegi solvunud nägu.";6;8
+musu:Par andma;ilu_kivirahk_272;andis musu;obj;Gen;ei;obj;"""Taadike, ma ju katsun sind poputada, nagu oskan!"" ütles Petrov, andis Ernesaksa pealaele musu - ehkki laulutaat ägedalt kõrvale tõmbuda üritas - korjas taldrikud kokku ning viis kööki, kust peagi kostis veega lobistamist ja Petrovi laulu:";20;17
+võimalus:obj andma;ilu_kivirahk_394;andis võimaluse;obj;Gen;ei;obj;Aeg-ajalt juhtus siiski midagi, mis pakkus väheke lusti ja andis võimaluse oma kangeks jäätunud lihaseid taas vetruvaiks võimelda.;12;11
+abi:Par osutama;ilu_kivirahk_407;abi osutama;obj;Par;ei;obj;"""Ehkki ta kaotas, oli ta vapper rüütel ja kui ta veel elus peaks olema, peame talle jõudumööda abi osutama.""";21;22
+vanne:obj andma;ilu_kivirahk_537;andnud vande;obj;Gen;ei;obj;Oleme andnud vande ja peame selle täitma.;3;2
+asi:Par ajama;ilu_kivirahk_61;asjad ajada;obj;Nom;ei;obj;"Hommikul ei võta ta nagunii kedagi vastu, siis on tal teised asjad ajada.""";13;14
+hääl:Par tegema;ilu_kivirahk_633;häält tegemata;obj;Par;ei;obj;Ja siis korraga muutus sir Parcival kõvaks kui kivi, langes häält tegemata pikali ja jäi liikumatult lebama, otsekui oleks teda tabanud välk.;12;13
+tunnistus:Par andma;ilu_kivirahk_7;andis tunnistust;obj;Par;ei;obj;Üksnes näriv pakane andis tunnistust sellest, et ei viibita hoopiski mitte muuseumisaalis.;5;4
+jutt:Par ajama;ilu_kivirahk_708;ajas juttu;obj;Par;ei;obj;Kondenspiima purk helendas ja pidi olema Püha Graal, ning üllatusmuna seest välja pudenenud kann nimetas end Merliniks ja ajas suurelist juttu.;22;20
+hirm:Par tundma;ilu_kivirahk_710;tundnud hirmu;conj;Par;ei;conj->obj;Imelikul kombel ei tundnud Ott mingit ärevust või hirmu, isegi mitte selle ees, et ta hakkab järsku hulluks minema.;9;4
+nõu:Par andma;ilu_maailm_138;andnud nõu;obj;Par;ei;obj;Oli aimus, et midagi peaks tegema, aga teha ei osanud ja keegi ei andnud nõu.;17;16
+oletus:Par tegema;ilu_maailm_241;tegid oletusi;obj;Par;ei;obj;Võib-olla tegid nad oletusi, kuid keegi ei küsinud midagi.;4;2
+suits:Par tegema;ilu_maailm_248;suitsu tegin;obj;Par;ei;obj;""" Sa vist ei oska seda eriti hästi, "" arvas Konspiraator, kellega koos rõdul suitsu tegin, "" sisse tuleb tõmmata, vaat' niimoodi.";17;18
+minek:Par tegema;ilu_maailm_344;Tegin minekut;obj;Par;ei;obj;Tegin 644-st kiiresti minekut.;4;1
+nali:Par tegema;ilu_maailm_357;teha nalja;obj;Par;ei;obj;Mul oli tunne, et minu kulul plaanitakse teha halba nalja.;11;9
+huvi:Par tundma;ilu_maailm_422;tundis huvi;obj;Par;ei;obj;"""Mis ta sulle ütles?"" tundis Vladimir huvi.";10;8
+nõu:Par andma;ilu_maailm_502;annan nõu;obj;Par;ei;obj;""" Aitäh, "" naeratas Konspiraator oma hambutut naeratust, "" vastutasuks annan head nõu.";15;13
+minek:Par tegema;ilu_maailm_550;tegi minekut;obj;Par;ei;obj;Kala käis vahepeal korra toas, aga noori nähes tegi minekut.;11;10
+korraldus:obj andma;ilu_maailm_575;Andsin korraldusi;obj;Par;ei;obj;Andsin endale vaikimisi korraldusi: esimene liigutus - kittel selga, teine - kella vaadata, kolmas - spiraal teekannu.;4;1
+lubadus:obj andma;ilu_maailm_672;andis lubadusi;obj;Par;ei;obj;Madis andis lubadusi.;3;2
+külm:Par tundma;ilu_orlau_141;tundes külma;obj;Par;ei;obj;Ärkasin, tundes seljas kontideni lõikavat külma.;7;3
+külm:Par tundma;ilu_orlau_185;tundsin külma;obj;Par;ei;obj;Ometi tundsin toda halvavat külma otse enda taga ... ei sammugi maha jäämas.;5;2
+jutt:Par ajama;ilu_orlau_38;juttu ajada;obj;Par;ei;obj;Kui mu silmad aegamisi hämarusega harjusid, nägin, et olen sattunud otse peo keskele: ümberringi oli palju inimesi, osad tantsisid, osad püüdsid läbi valju muusika hääli kähedaks röökides juttu ajada, osad jõid niisama omaette röötsakil, olles leppinud sellega, et keegi nagunii kedagi ei kuule.;33;34
+hääl:Par tegema;ilu_orlau_62;häältki teha;obj;Par;ei;obj;Tahtsin karjuda, et teda hirmutada, tahtsin ukseni tormata ja ta välja tõugata, lootuses, et too teine teda siiski ei märganud, kuid ei suutnud häältki teha, veel vähem end liigutada.;29;30
+piinlikkus:Par tundma;ilu_orlau_81;Tundsin piinlikkust;obj;Par;ei;obj;Tundsin pealtvaataja piinlikkust, kui nad eesistmel kirglikult suudlesid, teadmata, et autos on veel keegi.;3;1
+jutt:Par ajama;ilu_remsu_215;ajasid juttu;obj;Par;ei;obj;Inimesed ajasid jalgrataste seljas juttu, lobisesid mobiiltelefonidega.;5;2
+jutt:Par ajama;ilu_ruben_120;juttu ajama;obj;Par;ei;obj;"""Jäin Huckleberry Finniga juttu ajama,"" ütleb ta hilinemise põhjusena.";5;6
+jutt:Par ajama;ilu_ruben_122;juttu ajama;obj;Par;ei;obj;"""Jäin Huckleberry Finniga juttu ajama,"" kordab poiss, arvates, et õpetaja ei saanud esimesest korrast aru.";5;6
+hääl:Par tegema;ilu_ruben_136;tegi häält;obj;Par;ei;obj;"""Ahhh-hhhhaaaaaa!"" tegi majandusdirektor võidurõõmsat häält.";8;5
+töö:Par tegema;ilu_ruben_55;Tööd tehtagi;obj;Par;jah;obj;Tööd ei tehtagi!;1;3
+töö:Par tegema;ilu_sauter_117;tegema tööd;obj;Par;ei;obj;Kunagi ma ütlesin, et ma olen nõus tegema ükskõik mis tööd, mis ei nõua mind ennast.;12;9
+töö:Par tegema;ilu_sauter_263;tööd tegid;obj;Par;ei;obj;Kui inimene tahab rikkaks saada (a miks muidu see Vargamäe Andres ja minu isa ja ema niipalju tööd tegid - ikka raha pärast, mis siis, et üks või teine mokaotsast ka jumalast või armastusest rääkis), siis ta teeb palju tööd ja loob väärtusi ja teistel on temast hea meel.;19;20
+töö:Par tegema;ilu_sauter_263;teeb tööd;obj;Par;ei;obj;Kui inimene tahab rikkaks saada (a miks muidu see Vargamäe Andres ja minu isa ja ema niipalju tööd tegid - ikka raha pärast, mis siis, et üks või teine mokaotsast ka jumalast või armastusest rääkis), siis ta teeb palju tööd ja loob väärtusi ja teistel on temast hea meel.;45;43
+ette_panek:obj tegema;ilu_sauter_325;ettepanekuid tegemata;obj;Par;ei;obj;Nojah, aga mul on töine kamraad, kes lahendab naisküsimust küll ja just naistele ettepanekuid eriti tegemata.;16;18
+kõne:obj pidama;ilu_sauter_466;pidas kõne;obj;Gen;ei;obj;47. aastal, kui vanaema suri, olid tal küll ilmalikud matused, sest isa oli siis ENSV Ministrite Nõukogu esimehe asetäitja, aga matustel viibis vaimulikus rüüs Halliste kirikuõpetja, kes pidas kõne.;34;33
+pakkumine:Par tegema;ilu_sauter_614;tegid pakkumisi;obj;Par;ei;obj;"Esialgu tegid nad mulle ka kogu aeg pakkumisi (""Are you looking for business?"") ja nad tegid seda visalt üle aasta.";8;2
+nali:Par tegema;ilu_sauter_618;nalja teha;obj;Par;ei;obj;Hiljem oli tal raske selgeks teha, et ta ei taha litse mõnitada ja nende üle nalja teha.;17;18
+ette_panek:obj tegema;ilu_sauter_634;tegin etteapaneku;obj;Gen;ei;obj;Niisiis teatri- ja kirjandusinimestega üheskoos napsu võttes ja elust lugusid rääkides, tegin etteapaneku, et igaüks räägiks oma isikliku loo litsimajakülastusest.;14;13
+asi:Par ajama;ilu_sauter_640;asja ajama;obj;Par;ei;obj;Napsas tüdruku ja läks asja ajama.;5;6
+töö:Par tegema;ilu_sauter_76;tööd teeb;obj;Par;ei;obj;Kopiraiteri ameti üle arutlemisega on nii, et kui see kellegagi jutuks tuleb, siis hakkab kopirater kohe ennast õigustama - et miks ta sellist tööd teeb.;26;27
+ette_heide:Par tegema;ilu_sauter_77;teeb etteheiteid;obj;Par;ei;obj;Kas siis teine teeb talle etteheiteid või ei tee või teinekord isegi siis, kui räägivad kaks kopiraiterit omavahel.;6;4
+töö:Par tegema;ilu_valton_144;tegema tööd;obj;Par;ei;obj;Head hobust, talumehe kõige suuremat varandust, sundis inimene tegema rasket tööd, kanadelt võttis ta ära nende munad, lehma laste eest jõi ta ära piima ning sarviline püüdis ikka rohkem lüpsta lootuses, et siis ehk jätkub ka vasikale midagi.;13;11
+külm:Par tundma;ilu_valton_158;tundis külma;obj;Par;ei;obj;Siis tundis ta jälle külma ning teadis, kust sooja leida.;5;2
+pai:obj tegema;ilu_valton_173;teeb pai;obj;Par;ei;obj;Tibule näis, et ta hellitab eriti teda, võtab pihku, teeb pai, mis üldiselt aga ei olnud meeldiv.;14;13
+välk:Par lööma;ilu_valton_196;lööb välku;obj;Par;ei;obj;Vahel lööb välku, see teeb maa valgeks, aga kustub ruttu ära.;3;2
+hirm:Par tundma;ilu_valton_204;tunda hirmu;obj;Par;ei;obj;Ka tema oleks tahtnud tunda mõnusat hirmu, kui isand, punane hari püsti, tuleb ähvardavalt ta poole.;7;5
+järeldus:obj tegema;ilu_valton_260;teha järelduse;obj;Gen;ei;obj;Sellest võis teha järelduse, et nõrgemate äranokkimine ehk polnudki alati tark tegu.;4;3
+mure:Par tegema;ilu_valton_283;teinud muret;obj;Par;ei;obj;Teiste lindudega võrreldes lendas ta halvasti, kuid noorele kanale ei teinud see suurt muret.;15;12
+töö:Par tegema;ilu_valton_573;tehti töid;obj;Par;jah;obj;Enne tehti igasuguseid muid töid.;5;2
+töö:Par tegema;ilu_valton_586;töö tehtud;obj;Nom;jah;obj;Tsee läks vineertahvli juurde ja veendus, et seal on juba puhas töö tehtud.;13;14
+lärm:Par tegema;ilu_valton_64;tegi lärmi;obj;Par;ei;obj;Aida kõrval, ketiga kuudi küljes kinni, hüples peni ja tegi lärmi, aga teda ei saanud tibu kuidagi peremeheks pidada.;13;12
+pahandus:Par tegema;ilu_valton_647;Pahandust tegi;obj;Par;ei;obj;Pahandust tegi ta vaid kogemata.;1;2
+viga:obj tegema;ilu_valton_91;teinud vea;obj;Gen;ei;obj;Et nad vana kukke asjata ei kõrvaldaks, peab ta noorest selgelt üle olema ning teda nõnda kõvasti sarjama, et inimesed ta poolsurnuna leiaksid ning veenduksid, et nad on teinud vea, kui otsustasid, et vana kuke päevad on loetud.;33;32
+jutt:Par ajama;ilu_vilep_156;ajasid juttu;obj;Par;ei;obj;""" Su ema helistas ja ütles, et sa ajasid läbi telefoni veidrat juttu.";14;10
+asi:Par ajama;ilu_vilep_159;asjad ajada;obj;Nom;ei;obj;"""Kõht on pagana tühi!"" arvas Jan heaks kõigepealt esmased asjad korda ajada.";13;15
+ette_panek:obj tegema;ilu_vilep_192;tegi ettepaneku;obj;Gen;ei;obj;"Ta toppis viimase kartuli vägisi sisse ja tegi ettepaneku: ""Hommik on õhtust targem.";9;8
+suits:Par tegema;ilu_vilep_218;suitsu teha;obj;Par;ei;obj;Ta sikutas Agnesele teki peale ja läks kobamisi kööki, et suitsu teha.;12;13
+nali:Par tegema;ilu_vilep_237;tegin nalja;obj;Par;ei;obj;""" Ma tegin nalja!";4;3
+suits:Par tegema;ilu_vilep_250;suitsu tegemas;obj;Par;ei;obj;Käisin köögis suitsu tegemas ja panin enda järel kõik uksed kinni.;3;4
+järeldus:obj tegema;ilu_vilep_266;järeldusi tegemast;obj;Par;ei;obj;Psühhiaatrit takistas järeldusi tegemast tõik, et kogu seda faktide hulka suutis Jan ilmeksimatult ülima täpsusega korrata.;3;4
+huvi:Par tundma;ilu_vilep_283;tundis huvi;obj;Par;ei;obj;"""Mis saab mu tööst?"" tundis Jan huvi.";10;8
+grimass:Par tegema;ilu_vilep_357;tegi grimassi;obj;Gen;ei;obj;"""Palun!"" tegi Jan anuva grimassi.";8;5
+nali:Par tegema;ilu_vilep_359;teegi nalja;obj;Par;ei;obj;"""Sa ei teegi vist nalja?""";6;4
+uhkus:Par tundma;ilu_vilep_392;tundes uhkust;obj;Par;ei;obj;"""Kati!"" pöördus ta mesimagusal häälel naise poole, tundes tillukest uhkust, et sai teda nimepidi kõnetada, ilma et oleks pidanud seda küsima.";14;12
+lollus:Par tegema;ilu_vilep_401;teed lollusi;obj;Par;ei;obj;Elus teed veel suuremaid lollusi ja mõttetusi.;5;2
+kompliment:obj tegema;ilu_vilep_416;komplimentigi teha;obj;Par;ei;obj;"""Sa ei oska inglise keeles komplimentigi teha!""";7;8
+peer:Par laskma;ilu_vilep_514;laskis peeru;obj;Par;ei;obj;Isa võttis mikrofoni, pani istumise alla ja laskis täisvõimsusega salongi käraka peeru.;13;9
+võimalus:obj andma;ilu_vilep_591;anti võimalusi;obj;Par;jah;obj;Kas teda karistati või anti hoopis võimalusi?;7;5
+otsus:obj tegema;ilu_vilep_618;tegi otsuse;obj;Gen;ei;obj;Asjasse peab hakkama selgust tooma -- tegi ta otsuse.;9;7
+tähele_panek:Par tegema;ilu_vilep_667;tegi tähelepaneku;obj;Gen;ei;obj;Jälle kollane -- tegi ta tähelepaneku, kui buss käänaku tagant välja ilmus.;6;4
+järeldus:obj tegema;ilu_vilep_694;tegi järelduse;obj;Gen;ei;obj;"""Meeltepete,"" tegi ta järelduse.";7;5
+hääl:Par tegema;ilu_vilep_712;tegi hääle;obj;Gen;ei;obj;"""Ma ei saa,"" tegi Jan nutuse hääle, ""mul on müür ümber.""";10;7
+nali:Par tegema;ilu_vilep_73;Nalja teed;obj;Par;ei;obj;""" Nalja teed või?";2;3
+kokku_võte:obj tegema;ilu_vilep_744;tegi kokkuvõtte;obj;Gen;ei;obj;"""Siga!"" tegi naine kokkuvõtte.";7;5
+huvi:Par tundma;tea_AA_05_6_1126;huvi tunneb;obj;Par;ei;obj;Kes graafiteooria vastu huvi tunneb, selle jaoks võib märkida, et Sudoku lahendamine on ekvivalentne nn graafi värvimise ülesandega.;4;5
+proov:Par tegema;tea_AA_05_6_1154;Tehke proovi;obj;Par;ei;obj;Tehke proovi, kas Schotti meetod töötab.;2;1
+töö:Par tegema;tea_AA_05_6_620;tööd tegema;obj;Par;ei;obj;Mahtude suurenemisel tuli paratamatult seda tööd tegema hakata andmekaevandamisvahendite abil, sest spetsiaalne (sisuliselt olemasolevate vahendite) tarkvaraarendus ei oleks majanduslikult otstarbekas.;6;7
+algus:Par tegema;tea_AA_05_6_643;algus tehtud;obj;Nom;jah;obj;Selle põhjal võiks arvata, et korralik algus on tehtud ning varem või hiljem rakendatakse ka vähemate kahtlustunnustega maksupetturite leidmiseks andmekaevandamist.;8;10
+küsimus:Par tõstatama;tea_AA_05_6_662;tõstatatud küsimus;obj;Nom;jah;obj;Teksti kaevandamises on tõstatatud küsimus: kas on võimalik näha ka teksti sisse samamoodi, nagu me püüame avada traditsiooniliste andmetabelite sisu.;5;4
+investeering:Par tegema;tea_AA_05_6_682;investeeringuid teinud;obj;Par;ei;obj;Andmekaevandamise kasutusvõimaluste uurimisel meditsiinis on suurimaid investeeringuid teinud ilmselgelt ravimifirmad, sest uute ravimite projekteerimine (drug design) on juba oma olemuselt ääretult üldiselt võetuna kombinatsioon ainetest, millele organism üht või teist moodi reageerib (uurimiseesmärgiks seega eri kombinatsioonide lahterdamine).;7;8
+investeering:Par tegema;tea_dr8020_301;teha investeeringuid;obj;Par;ei;obj;Oletatakse, et kiirema majanduskasvuga kaasneb suurem ettevõtlusaktiivsus ja nii koonduvad sissetulekud enam rikkamate elanike kätte, kellel on võimalik teha investeeringuid (Chang ja Ram, 2000).;22;21
+tunnistus:Par andma;tea_dr8020_4;annab tunnistust;obj;Par;ei;obj;Sellest annab tunnistust ka jõudsalt kasvanud vastava ala teadusartiklite hulk.;3;2
+valik:obj tegema;tea_dr8020_97;teha valik;obj;Nom;ei;obj;Seejärel on teostatud esmane analüüs selleks, et teha valik mõnede nähtuste kirjeldamiseks kasutada olevate alternatiivsete kirjeldamisvõimaluste vahel.;10;9
+järeldus:obj tegema;tea_dr8020_98;teha järeldused;obj;Nom;ei;obj;Et rahaliselt mõõdetavate näitajate puhul ei olnud võimalik üht võimalust eelistada teisele, siis on edaspidi võrdluseks kasutatud paralleelselt mõlemat varianti, et teha alles seejärel järeldused selle kohta, kumma võimaluse kasutamine on enam põhjendatud.;27;24
+järeldus:obj tegema;tea_dr8047_221;järeldusi teha;obj;Par;ei;obj;Esitatud andmete puhul on raske mingeid põhjapanevaid järeldusi teha, kuna puuduvad andmed söötmise kohta, kuid võib täheldada, et looduses ehk siis vabapidamisel lindude munarebu polüküllastumata rasvhappete sisaldus on suurem kui farmilindudel.;8;9
+katse:Par tegema;tea_dr8047_95;tehtud katseid;obj;Par;jah;obj;On tehtud juba ka esimesi katseid eikosapentaeenhappe mikrobioloogiliseks sünteesiks Mortirella fungi abil (Leman, 1993).;6;2
+järeldus:obj tegema;tea_eesti_arst_2004_1005;teha järeldusi;obj;Par;ei;obj;Tulemi hindamine lubab teha järeldusi tervishoiusüsteemi potentsiaalselt mõjutatavate komponentide, struktuuri ja protsessi kohta.;5;4
+järeldus:obj tegema;tea_eesti_arst_2004_1079;teha järeldusi;obj;Par;ei;obj;Elukvaliteet on üheks tervisetulemi klassiks, mille hindamine lubab teha järeldusi tervishoiusüsteemi struktuuri ja teenuste pakkumise protsessi kohta.;11;10
+huvi:Par tundma;tea_eesti_arst_2004_1095;huvi tuntud;obj;Par;jah;obj;Selle süsteemi raviotstarbelise mõjustamise vastu on huvi tuntud mõnda aega.;7;8
+võimalus:obj andma;tea_eesti_arst_2004_1188;annab võimaluse;obj;Gen;ei;obj;Sellest tulenevalt annab kõikide anti-konvulsantide kättesaadavus parema võimaluse leida iga raskesti ravimitele alluva epilepsiahaige elukvaliteedi parandamiseks just see õige, kõige efektiivsem ja vähem kõrvalnähtusid põhjustav ravim.;8;3
+ette_panek:obj tegema;tea_eesti_arst_2004_1249;tegi ettepaneku;obj;Gen;ei;obj;Selleks et perearstid oma patsiente ise rohkem registreeriksid, tegi Riigikontroll sotsiaalministrile ettepaneku täiendada registreerimise korraldust, andes perearstile patsiendi vastuvõtule registreerimiseks õigusliku aluse.;13;10
+ette_panek:obj tegema;tea_eesti_arst_2004_1274;tegi ettepaneku;obj;Gen;ei;obj;Riigikontroll tegi ettepaneku muuta registreerimise korraldust, võttes arvesse ka telefonitsi ja Internetis registreerijad, ent samas töötada välja meede, kuidas kontrollida saatekirja olemasolu ka juhul, kui patsient registreerimisel ise kohale ei tule (nt võimalus kontrollida seda perearsti kaudu).;3;2
+koopia:obj tegema;tea_eesti_arst_2004_1364;tegema koopia;obj;Gen;ei;obj;6 Raviasutuste kohustus normide täitmisel on samasugune nagu praegu kehtivate välislepingute osas: raviasutus peab tegema vastavast vormist koopia, mille saadab Eesti Haigekassale.;19;16
+võimalus:obj andma;tea_eesti_arst_2004_1457;annab võimalused;obj;Nom;ei;obj;Loodetavasti peagi teoks saav liitumine suurendab arstkonna ühtsust ning annab arstide liidule paremad võimalused kõigi tohtrite huvide eest seista.;14;10
+uuring:Par tegema;tea_eesti_arst_2004_1576;tehtud uuringuid;obj;Par;jah;obj;Paljudes maades on tehtud epidemioloogilisi uuringuid, et välja selgitada erinevate unehäirete esinemissagedus.;6;4
+uuring:Par tegema;tea_eesti_arst_2004_162;teha uuringud;obj;Nom;ei;obj;Väga oluline on uurida peresid enne kunstlikule viljastamisele suunamist ja teha uuringud juba varakult, et võimaldada infertiilsete perede asjakohast meditsiinigeneetilist nõustamist.;12;11
+uinak:obj tegema;tea_eesti_arst_2004_1621;uinakuid teevad;obj;Par;ei;obj;Päevaseid uinakuid teevad peaaegu pooled uurituist (47,8%).;2;3
+uurimis_töö:Par tegema;tea_eesti_arst_2004_1640;Uurimistöö tehtud;obj;Nom;jah;obj;Uurimistöö on tehtud Eesti Teadusfondi grandi nr 4635 ja TÜ psühhiaatriakliiniku sihtfinantseeritava teema nr 0423 toetusel.;1;3
+otsus:obj tegema;tea_eesti_arst_2004_1642;teha otsuseid;obj;Par;ei;obj;Arteriaalse vererõhu väärtus muutub ajas väga kiiresti, mistõttu on oluline vererõhu korrektne mõõtmine, et teha õigeid otsuseid antihüpertensiivse ravi alustamise vajalikkuse kohta.;19;17
+võimalus:obj andma;tea_eesti_arst_2004_1643;annab võimaluse;obj;Gen;ei;obj;Vererõhu pidev mitteinvasiivne registreerimine iga südametsükli kohta annab võimaluse jälgida kiireid muutusi keskmises vererõhus ja pulsisageduses.;9;8
+uuring:Par tegema;tea_eesti_arst_2004_609;tehakse uuring;conj;Nom;jah;conj->obj;Hingamiselundite amüloidoosiga patsientide jälgimise ja ravi juures on oluline koht regulaarsel kontrollil ligikaudu iga 6 kuu tagant, kui lisaks kliinilistele ning organfunktsioone peegeldavatele biokeemilistele analüüsidele tehakse rindkere röntgenuuringud (koos KTga), hingamiselundite funktsionaalsed testid, füüsilise koormuse taluvuse registreerimine lihtsama standardse koormustesti abil, elektro- ja ehhokardiograafia ning bronhoskoopiline uuring (5).;53;27
+tunnistus:Par andma;tea_eesti_arst_2004_631;andis tunnistust;obj;Par;ei;obj;Juhindudes visuaalselt veenvalt endobronhiaalsele pahaloomulisele uudismoodustisele sobivast bronhoskoopilisest leiust, korrati bronhoskoopiaid kasvaja histoloogiliseks tõestamiseks järgmise 2 aasta jooksul mitu korda, kuigi üldseisundi stabiilsus andis tunnistust healoomulisest protsessist.;27;26
+harjutus:Par tegema;tea_eesti_arst_2004_821;Harjutust teha;obj;Par;ei;obj;Harjutust tuleks teha 2 korda päevas.;1;3
+harjutus:Par tegema;tea_eesti_arst_2004_829;harjutusi teha;obj;Par;ei;obj;Kegeli harjutusi võib teha, kasutades spetsiaalset nn biofeedback-süsteemi, mille puhul paigaldatakse andur tuppe või pärakusse fikseerimaks vaagnapõhjalihaste kontraktsioone.;2;4
+eel_töö:Par tegema;tea_geofyysika_116;tehti eeltöö;obj;Nom;jah;obj;Rahvusvahelise geofüüsika aasta jooksul tehti põhiline eeltöö kahe tähtsa rahvusvahelise kokkuleppe sõlmimiseks.;7;5
+huvi:Par tundma;tea_geofyysika_213;tundis huvi;obj;Par;ei;obj;Sellest siis järgnebki miks astronoomia tundis kuni kõige hilisema ajani huvi ainult planeetide liikumise ja selle liikumise tausta vastu.;11;6
+põhjus:Par andma;tea_geofyysika_29;annab põhjust;obj;Par;ei;obj;Vastukaaluks annab kogemus põhjust väita, et füüsikas kasutatava mõtteviisi omaksvõtnud inimesed saavad vahel üsna vaevaliselt aru looduse füüsikavälistest seostest.;4;2
+tunnistus:Par andma;tea_geofyysika_577;annavad tunnistust;obj;Par;ei;obj;Suhteliselt harva toimuvatest suurema massiga kehade langemisest Maale annavad tunnistust meteoriidikraatrid.;10;9
+juhis:obj andma;tea_geofyysika_89;anda juhiseid;obj;Par;ei;obj;Need on kulukad tegevused ja teaduse osaks on siin anda juhiseid kust otsida ja kus puurida, et oleks väljavaateid midagi leida.;11;10
+arvutus:Par tegema;tea_toohoive_1023;arvutused tehtud;obj;Nom;jah;obj;Mõningate reservatsioonidega võib siin vaadelda Eametsa ja Rõõmu arvutusi liikumiste tõenäosuste kohta üle kogu perioodi, kuigi Raul Eametsa arvutused (joonisel 7 1989. ja 1994. a. kohta) ning Marit Rõõmu vastavad arvutused (joonisel 7 1997. a., 1998. a., 1999. a.) on tehtud mõnevõrra erinevate metoodikatega;20;48
+arvutus:Par tegema;tea_toohoive_1023;arvutused tehtud;conj;Nom;jah;conj->obj;Mõningate reservatsioonidega võib siin vaadelda Eametsa ja Rõõmu arvutusi liikumiste tõenäosuste kohta üle kogu perioodi, kuigi Raul Eametsa arvutused (joonisel 7 1989. ja 1994. a. kohta) ning Marit Rõõmu vastavad arvutused (joonisel 7 1997. a., 1998. a., 1999. a.) on tehtud mõnevõrra erinevate metoodikatega;34;48
+vastus:Par andma;tea_toohoive_1063;anda vastust;obj;Par;ei;obj;Küsimusele, kas aastatel 1997-2000 tuvastatud tööhõivet puudutavad seosed toimivad edasi ka järgnevatel aastatel, ei saa anda rangelt teaduslikult põhjendatud vastust.;22;18
+järeldus:obj tegema;tea_toohoive_1172;teha järeldused;obj;Nom;ei;obj;Analüüsitud välismaiste analoogiate ja nende Eesti seisundiga suhtestamise baasil võib teha järgmised järeldused.;13;11
+järeldus:obj tegema;tea_toohoive_297;teha järeldusi;obj;Par;ei;obj;Seda lähenemist rakendame seetõttu, et üksnes tööjõu ja kapitali tootlikkused eraldi võttes ei võimalda teha järeldusi äritegevuse tasuvuse kohta antud riigis ega prognoosida edasist makromajanduslikku dünaamikat.;17;16
+järeldus:obj tegema;tea_toohoive_437;teeb järelduse;obj;Gen;ei;obj;Mickiewicz teeb järelduse, et on erinevaid ümberstruktureerumise teid ja töötuse laienemine pole selle peamine eeldus.;3;2
+järeldus:obj tegema;tea_toohoive_445;teha järeldust;obj;Par;ei;obj;Asjaolust, et praegu on tegemist sisenõudluse kasvule tugineva majanduskasvuga, ja seda olukorras, kus välisturud, eriti allhanketurg on olnud suhteliselt stagneerunud olekus, võib teha kaks järeldust:;30;28
+läbi_rääkimine:Par pidama;tea_toohoive_726;peavad läbirääkimisi;obj;Par;ei;obj;Viimased peavad läbirääkimisi ka selleks, et liikmetele hüvitataks elukalliduse tõus.;3;2
+töö:Par tegema;tea_toohoive_769;teeb tööd;obj;Par;ei;obj;Hästi kinnimakstud inimene teeb aga reeglina ka rohkem tööd (on produktiivsem - sh kaasinimeste eest).;9;4
+äri:Par tegema;tea_toohoive_804;äri teha;obj;Nom;ei;obj;Väga erineva rikkusega majandusagentidel on vähem põhjust teineteisega äri teha (nt 51% aktsionär ei vaja eriti koostööd 1% aktsionäriga - viimane võib väga kergesti sattuda olukorda, kus parim pakkumine tema aktsiatele on EEK 0).;9;10
+arvutus:Par tegema;tea_toohoive_835;arvutusi tehtud;obj;Par;jah;obj;Teine võimalus probleemi lahendamiseks oleks püüda leida teisi konkurentsivõimega tihedamalt või kaudsemalt seotud näitajaid, mille alusel on Eestis juba sektoraalseid arvutusi tehtud.;22;23
+töö:Par tegema;tea_toohoive_919;teeb tööd;obj;Par;ei;obj;"Palkade kasv võib viia töötajate arvu vähenemisele seetõttu, et võimaldab olemasolevat tööjõudu paremini ekspluateerida (""hästi kinnimakstud inimene teeb rohkem tööd"").";23;21
