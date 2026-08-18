@@ -1,0 +1,6 @@
+Ühend;Lause_ID;Leitud ühendikandidaat;Komponendi seos;Komponendi kääne;Passiiv;Reegel;Lause tekst;Noomeni token;Verbi token
+võimalus:obj andma;aja_ee199920_11;võimaluste antud;nmod;Gen;jah;enhanced-obj;"""Tegutsesime nende võimaluste piirides, mis meile on antud,"" ütleb ta.";4;10
+kulutus:Par tegema;aja_ee200110_1333;kulutused teeb;nsubj;Nom;ei;enhanced-obj;"""Ja eks siis reas kõige kallima preparaadi tootja, et konkurentsis pinnale jääda, vaatab oma hinnapoliitika üle,"" ütleb Raudsepp ja lisab, et kolmandiku ravimi hinnast moodustavad kulutused, mida ravimifirma teeb ravimi reklaamile.";32;36
+töö:Par tegema;aja_ml200247_44;töö tehakse;root;Nom;jah;enhanced-obj;See on töö, mida tehakse fanatismiga ja milleks ei saa sundida.;3;6
+töö:Par tegema;ilu_sauter_130;tööd teha;obj;Nom;ei;enhanced-obj;Need tööd, mida ma ei saa teha iseendana, jätan ma nüüd katki.;2;8
+analüüs:obj tegema;tea_toohoive_1130;analüüsid tehtud;nsubj;Nom;jah;enhanced-obj;"Ka Eesti Panga viimased analüüsid, mis on tehtud aastate 2001 ja 2002 kohta, näitavadki, et majanduskasvu ""mootoreiks"" on peale 2001. aastat üha enam olnud sisemaine nõudlus.";5;9
