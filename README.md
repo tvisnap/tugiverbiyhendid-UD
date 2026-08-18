@@ -41,6 +41,6 @@ Seal asuvad programmi jooksutamiseks vajalikud failid, kui kasutada Githubi repo
 
 ## Otsingu põhimõte
 
-Otsing lähtub normaliseeritud tööleksikonist ning kontrollib, kas samas lauses esineb leksikonis kirjeldatud verb ja noomen ning kas noomen on põhimärgenduses verbi objekt. Arvesse võetakse ka juhtumeid, kus noomen on rinnastatud verbi objektiga. Leksikonis olevat käändemärgendit kandidaadi leidmisel piirava tingimusena ei kasutata.
+Otsing kasutab otsinguleksikoni ning kontrollib, kas samas lauses esineb leksikonis kirjeldatud verb ja noomen ning kas noomen on põhimärgenduses verbi objekt. Arvesse võetakse ka juhtumeid, kus noomen on rinnastatud verbi objektiga. Leksikonis olevat käändemärgendit kandidaadi leidmisel piirava tingimusena ei kasutata.
 
 Täiustatud sõltuvusi kontrollitakse eraldi. Kui tööleksikonis olev noomen ei ole põhimärgenduses verbi objekt, kuid täiustatud sõltuvustes on noomeni ja verbi vahel `obj`-seos, salvestatakse leid eraldi väljundisse ja seda ei arvestata põhikandidaatide hulka.
